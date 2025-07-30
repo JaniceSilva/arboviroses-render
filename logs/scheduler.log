@@ -1,0 +1,21 @@
+2025-07-28 23:17:27,367 - WARNING - From C:\Users\ja\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-07-28 23:17:34,107 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.76:5000
+2025-07-28 23:17:34,109 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-28 23:21:05,498 - INFO - 192.168.10.76 - - [28/Jul/2025 23:21:05] "GET / HTTP/1.1" 200 -
+2025-07-28 23:54:39,086 - WARNING - From C:\Users\ja\Desktop\MESTRADO\AWS\arboviroses-backend-final (3)\.venv\Lib\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-07-28 23:54:47,946 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.76:5000
+2025-07-28 23:54:47,951 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-28 23:55:00,995 - INFO - 192.168.10.76 - - [28/Jul/2025 23:55:00] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-29 01:15:57,900 - INFO - 192.168.10.76 - - [29/Jul/2025 01:15:57] "[36mGET / HTTP/1.1[0m" 304 -
+2025-07-29 11:45:48,195 - INFO - 192.168.10.76 - - [29/Jul/2025 11:45:48] "GET / HTTP/1.1" 200 -
+2025-07-29 11:46:04,109 - INFO - 192.168.10.76 - - [29/Jul/2025 11:46:04] "[31m[1mGET / HTTP/1.1[0m" 400 -
+2025-07-29 11:46:04,161 - INFO - 192.168.10.76 - - [29/Jul/2025 11:46:04] "GET /loginMsg.js HTTP/1.1" 200 -
+2025-07-29 11:46:04,161 - INFO - 192.168.10.76 - - [29/Jul/2025 11:46:04] "GET /cgi/get.cgi?cmd=home_login HTTP/1.1" 200 -
