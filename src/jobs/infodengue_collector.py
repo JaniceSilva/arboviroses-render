@@ -1,6 +1,6 @@
 """
 Job para coleta automática de dados de arboviroses usando InfoDengue API.
-Agora inclui a coleta de todos os municípios de Minas Gerais.
+ inclui a coleta de todos os municípios de Minas Gerais e principais capitais.
 """
 import os
 import sys
@@ -8,6 +8,11 @@ import requests
 import json
 from datetime import datetime, date
 from typing import List, Dict, Any, Optional
+
+from flask import Flask
+from dotenv import load_dotenv  
+
+load_dotenv()  # <--  CARREGAR O ARQUIVO .env
 
 # Adicionar o diretório raiz ao path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
