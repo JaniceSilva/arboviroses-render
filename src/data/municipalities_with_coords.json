@@ -1,0 +1,5966 @@
+[
+  {
+    "code": "3100104",
+    "name": "Abadia dos Dourados",
+    "state": "MG",
+    "lat": -18.4911191,
+    "lon": -47.4063589
+  },
+  {
+    "code": "3100203",
+    "name": "Abaeté",
+    "state": "MG",
+    "lat": -19.1566833,
+    "lon": -45.4481213
+  },
+  {
+    "code": "3100302",
+    "name": "Abre Campo",
+    "state": "MG",
+    "lat": -20.295421,
+    "lon": -42.480131
+  },
+  {
+    "code": "3100401",
+    "name": "Acaiaca",
+    "state": "MG",
+    "lat": -20.3621646,
+    "lon": -43.1444162
+  },
+  {
+    "code": "3100500",
+    "name": "Açucena",
+    "state": "MG",
+    "lat": -19.073056,
+    "lon": -42.546666
+  },
+  {
+    "code": "3100609",
+    "name": "Água Boa",
+    "state": "MG",
+    "lat": -17.9956411,
+    "lon": -42.3899261
+  },
+  {
+    "code": "3100708",
+    "name": "Água Comprida",
+    "state": "MG",
+    "lat": -20.0574733,
+    "lon": -48.1093074
+  },
+  {
+    "code": "3100807",
+    "name": "Aguanil",
+    "state": "MG",
+    "lat": -20.9424533,
+    "lon": -45.3927152
+  },
+  {
+    "code": "3100906",
+    "name": "Águas Formosas",
+    "state": "MG",
+    "lat": -17.0834193,
+    "lon": -40.9339978
+  },
+  {
+    "code": "3101003",
+    "name": "Águas Vermelhas",
+    "state": "MG",
+    "lat": -15.746305,
+    "lon": -41.4592963
+  },
+  {
+    "code": "3101102",
+    "name": "Aimorés",
+    "state": "MG",
+    "lat": -19.4917754,
+    "lon": -41.0615603
+  },
+  {
+    "code": "3101201",
+    "name": "Aiuruoca",
+    "state": "MG",
+    "lat": -21.9759554,
+    "lon": -44.6036637
+  },
+  {
+    "code": "3101300",
+    "name": "Alagoa",
+    "state": "MG",
+    "lat": -22.1697202,
+    "lon": -44.6400042
+  },
+  {
+    "code": "3101409",
+    "name": "Albertina",
+    "state": "MG",
+    "lat": -22.200556,
+    "lon": -46.615556
+  },
+  {
+    "code": "3101508",
+    "name": "Além Paraíba",
+    "state": "MG",
+    "lat": -21.8760576,
+    "lon": -42.6810473
+  },
+  {
+    "code": "3101607",
+    "name": "Alfenas",
+    "state": "MG",
+    "lat": -21.4297405,
+    "lon": -45.9479419
+  },
+  {
+    "code": "3101631",
+    "name": "Alfredo Vasconcelos",
+    "state": "MG",
+    "lat": -21.145833,
+    "lon": -43.776389
+  },
+  {
+    "code": "3101706",
+    "name": "Almenara",
+    "state": "MG",
+    "lat": -16.1753775,
+    "lon": -40.6916675
+  },
+  {
+    "code": "3101805",
+    "name": "Alpercata",
+    "state": "MG",
+    "lat": -18.9803616,
+    "lon": -41.9827637
+  },
+  {
+    "code": "3101904",
+    "name": "Alpinópolis",
+    "state": "MG",
+    "lat": -20.863611,
+    "lon": -46.387777
+  },
+  {
+    "code": "3102001",
+    "name": "Alterosa",
+    "state": "MG",
+    "lat": -21.249166,
+    "lon": -46.143055
+  },
+  {
+    "code": "3102050",
+    "name": "Alto Caparaó",
+    "state": "MG",
+    "lat": -20.4405661,
+    "lon": -41.8683799
+  },
+  {
+    "code": "3102100",
+    "name": "Alto Rio Doce",
+    "state": "MG",
+    "lat": -21.0239537,
+    "lon": -43.4133507
+  },
+  {
+    "code": "3102209",
+    "name": "Alvarenga",
+    "state": "MG",
+    "lat": -19.4175,
+    "lon": -41.728334
+  },
+  {
+    "code": "3102308",
+    "name": "Alvinópolis",
+    "state": "MG",
+    "lat": -20.1105199,
+    "lon": -43.0601805
+  },
+  {
+    "code": "3102407",
+    "name": "Alvorada de Minas",
+    "state": "MG",
+    "lat": -18.7318587,
+    "lon": -43.3641479
+  },
+  {
+    "code": "3102506",
+    "name": "Amparo do Serra",
+    "state": "MG",
+    "lat": -20.5070255,
+    "lon": -42.8028462
+  },
+  {
+    "code": "3102605",
+    "name": "Andradas",
+    "state": "MG",
+    "lat": -22.0693412,
+    "lon": -46.5707584
+  },
+  {
+    "code": "3102704",
+    "name": "Cachoeira de Pajeú",
+    "state": "MG",
+    "lat": -15.9656186,
+    "lon": -41.4971695
+  },
+  {
+    "code": "3102803",
+    "name": "Andrelândia",
+    "state": "MG",
+    "lat": -21.739722,
+    "lon": -44.308889
+  },
+  {
+    "code": "3102852",
+    "name": "Angelândia",
+    "state": "MG",
+    "lat": -17.7253,
+    "lon": -42.2728
+  },
+  {
+    "code": "3102902",
+    "name": "Antônio Carlos",
+    "state": "MG",
+    "lat": -21.318334,
+    "lon": -43.746666
+  },
+  {
+    "code": "3103009",
+    "name": "Antônio Dias",
+    "state": "MG",
+    "lat": -19.6525,
+    "lon": -42.872778
+  },
+  {
+    "code": "3103108",
+    "name": "Antônio Prado de Minas",
+    "state": "MG",
+    "lat": -21.0171988,
+    "lon": -42.1101106
+  },
+  {
+    "code": "3103207",
+    "name": "Araçaí",
+    "state": "MG",
+    "lat": -19.200833,
+    "lon": -44.2475
+  },
+  {
+    "code": "3103306",
+    "name": "Aracitaba",
+    "state": "MG",
+    "lat": -21.3425,
+    "lon": -43.378611
+  },
+  {
+    "code": "3103405",
+    "name": "Araçuaí",
+    "state": "MG",
+    "lat": -16.8484451,
+    "lon": -42.0661868
+  },
+  {
+    "code": "3103504",
+    "name": "Araguari",
+    "state": "MG",
+    "lat": -18.6511256,
+    "lon": -48.1933764
+  },
+  {
+    "code": "3103603",
+    "name": "Arantina",
+    "state": "MG",
+    "lat": -21.911667,
+    "lon": -44.255833
+  },
+  {
+    "code": "3103702",
+    "name": "Araponga",
+    "state": "MG",
+    "lat": -20.6662266,
+    "lon": -42.5218021
+  },
+  {
+    "code": "3103751",
+    "name": "Araporã",
+    "state": "MG",
+    "lat": -18.4318188,
+    "lon": -49.188313
+  },
+  {
+    "code": "3103801",
+    "name": "Arapuá",
+    "state": "MG",
+    "lat": -19.034444,
+    "lon": -46.155556
+  },
+  {
+    "code": "3103900",
+    "name": "Araújos",
+    "state": "MG",
+    "lat": -19.946829,
+    "lon": -45.1654312
+  },
+  {
+    "code": "3104007",
+    "name": "Araxá",
+    "state": "MG",
+    "lat": -19.6009149,
+    "lon": -46.940923
+  },
+  {
+    "code": "3104106",
+    "name": "Arceburgo",
+    "state": "MG",
+    "lat": -21.364444,
+    "lon": -46.939722
+  },
+  {
+    "code": "3104205",
+    "name": "Arcos",
+    "state": "MG",
+    "lat": -20.282223,
+    "lon": -45.539444
+  },
+  {
+    "code": "3104304",
+    "name": "Areado",
+    "state": "MG",
+    "lat": -21.3582771,
+    "lon": -46.1476688
+  },
+  {
+    "code": "3104403",
+    "name": "Argirita",
+    "state": "MG",
+    "lat": -21.612761,
+    "lon": -42.8371922
+  },
+  {
+    "code": "3104452",
+    "name": "Aricanduva",
+    "state": "MG",
+    "lat": -17.8678,
+    "lon": -42.5569
+  },
+  {
+    "code": "3104502",
+    "name": "Arinos",
+    "state": "MG",
+    "lat": -15.917223,
+    "lon": -46.106111
+  },
+  {
+    "code": "3104601",
+    "name": "Astolfo Dutra",
+    "state": "MG",
+    "lat": -21.3132636,
+    "lon": -42.8624102
+  },
+  {
+    "code": "3104700",
+    "name": "Ataléia",
+    "state": "MG",
+    "lat": -18.0441576,
+    "lon": -41.1104812
+  },
+  {
+    "code": "3104809",
+    "name": "Augusto de Lima",
+    "state": "MG",
+    "lat": -18.1092963,
+    "lon": -44.2651945
+  },
+  {
+    "code": "3104908",
+    "name": "Baependi",
+    "state": "MG",
+    "lat": -21.9575733,
+    "lon": -44.8891463
+  },
+  {
+    "code": "3105004",
+    "name": "Baldim",
+    "state": "MG",
+    "lat": -19.2913568,
+    "lon": -43.9558262
+  },
+  {
+    "code": "3105103",
+    "name": "Bambuí",
+    "state": "MG",
+    "lat": -20.0131996,
+    "lon": -45.9777034
+  },
+  {
+    "code": "3105202",
+    "name": "Bandeira",
+    "state": "MG",
+    "lat": -15.8859119,
+    "lon": -40.5618492
+  },
+  {
+    "code": "3105301",
+    "name": "Bandeira do Sul",
+    "state": "MG",
+    "lat": -21.728056,
+    "lon": -46.385555
+  },
+  {
+    "code": "3105400",
+    "name": "Barão de Cocais",
+    "state": "MG",
+    "lat": -19.9452437,
+    "lon": -43.4870298
+  },
+  {
+    "code": "3105608",
+    "name": "Barbacena",
+    "state": "MG",
+    "lat": -21.2254524,
+    "lon": -43.7735087
+  },
+  {
+    "code": "3105707",
+    "name": "Barra Longa",
+    "state": "MG",
+    "lat": -20.2833541,
+    "lon": -43.0423516
+  },
+  {
+    "code": "3105905",
+    "name": "Barroso",
+    "state": "MG",
+    "lat": -21.187137,
+    "lon": -43.9771259
+  },
+  {
+    "code": "3106002",
+    "name": "Bela Vista de Minas",
+    "state": "MG",
+    "lat": -19.8289721,
+    "lon": -43.0973688
+  },
+  {
+    "code": "3106101",
+    "name": "Belmiro Braga",
+    "state": "MG",
+    "lat": -21.9486291,
+    "lon": -43.413564
+  },
+  {
+    "code": "3106200",
+    "name": "Belo Horizonte",
+    "state": "MG",
+    "lat": -19.9227318,
+    "lon": -43.9450948
+  },
+  {
+    "code": "3106309",
+    "name": "Belo Oriente",
+    "state": "MG",
+    "lat": -19.2232523,
+    "lon": -42.4807033
+  },
+  {
+    "code": "3106408",
+    "name": "Belo Vale",
+    "state": "MG",
+    "lat": -20.407778,
+    "lon": -44.024167
+  },
+  {
+    "code": "3106507",
+    "name": "Berilo",
+    "state": "MG",
+    "lat": -16.9515764,
+    "lon": -42.4643732
+  },
+  {
+    "code": "3106606",
+    "name": "Bertópolis",
+    "state": "MG",
+    "lat": -17.0652475,
+    "lon": -40.57294
+  },
+  {
+    "code": "3106655",
+    "name": "Berizal",
+    "state": "MG",
+    "lat": -15.6118785,
+    "lon": -41.7417382
+  },
+  {
+    "code": "3106705",
+    "name": "Betim",
+    "state": "MG",
+    "lat": -19.9475338,
+    "lon": -44.1995361
+  },
+  {
+    "code": "3106804",
+    "name": "Bias Fortes",
+    "state": "MG",
+    "lat": -21.605833,
+    "lon": -43.756944
+  },
+  {
+    "code": "3106903",
+    "name": "Bicas",
+    "state": "MG",
+    "lat": -21.7213723,
+    "lon": -43.0604327
+  },
+  {
+    "code": "3107000",
+    "name": "Biquinhas",
+    "state": "MG",
+    "lat": -18.783611,
+    "lon": -45.502222
+  },
+  {
+    "code": "3107109",
+    "name": "Boa Esperança",
+    "state": "MG",
+    "lat": -21.0901253,
+    "lon": -45.5660195
+  },
+  {
+    "code": "3107208",
+    "name": "Bocaina de Minas",
+    "state": "MG",
+    "lat": -22.167778,
+    "lon": -44.394722
+  },
+  {
+    "code": "3107307",
+    "name": "Bocaiúva",
+    "state": "MG",
+    "lat": -17.1160208,
+    "lon": -43.8122678
+  },
+  {
+    "code": "3107406",
+    "name": "Bom Despacho",
+    "state": "MG",
+    "lat": -19.7375242,
+    "lon": -45.2517288
+  },
+  {
+    "code": "3107505",
+    "name": "Bom Jardim de Minas",
+    "state": "MG",
+    "lat": -21.9476508,
+    "lon": -44.1905987
+  },
+  {
+    "code": "3107604",
+    "name": "Bom Jesus da Penha",
+    "state": "MG",
+    "lat": -21.0178774,
+    "lon": -46.5213848
+  },
+  {
+    "code": "3107703",
+    "name": "Bom Jesus do Amparo",
+    "state": "MG",
+    "lat": -19.7045132,
+    "lon": -43.4752911
+  },
+  {
+    "code": "3107802",
+    "name": "Bom Jesus do Galho",
+    "state": "MG",
+    "lat": -19.8283191,
+    "lon": -42.3162256
+  },
+  {
+    "code": "3107901",
+    "name": "Bom Repouso",
+    "state": "MG",
+    "lat": -22.4657069,
+    "lon": -46.1485376
+  },
+  {
+    "code": "3108008",
+    "name": "Bom Sucesso",
+    "state": "MG",
+    "lat": -21.0323516,
+    "lon": -44.7598082
+  },
+  {
+    "code": "3108107",
+    "name": "Bonfim",
+    "state": "MG",
+    "lat": -20.3266626,
+    "lon": -44.2386157
+  },
+  {
+    "code": "3108206",
+    "name": "Bonfinópolis de Minas",
+    "state": "MG",
+    "lat": -16.5660011,
+    "lon": -45.98645
+  },
+  {
+    "code": "3108255",
+    "name": "Bonito de Minas",
+    "state": "MG",
+    "lat": -15.3231001,
+    "lon": -44.7572539
+  },
+  {
+    "code": "3108305",
+    "name": "Borda da Mata",
+    "state": "MG",
+    "lat": -22.274167,
+    "lon": -46.165278
+  },
+  {
+    "code": "3108404",
+    "name": "Botelhos",
+    "state": "MG",
+    "lat": -21.6500058,
+    "lon": -46.3947355
+  },
+  {
+    "code": "3108503",
+    "name": "Botumirim",
+    "state": "MG",
+    "lat": -16.862778,
+    "lon": -43.011111
+  },
+  {
+    "code": "3108552",
+    "name": "Brasilândia de Minas",
+    "state": "MG",
+    "lat": -17.0096409,
+    "lon": -46.0087622
+  },
+  {
+    "code": "3108602",
+    "name": "Brasília de Minas",
+    "state": "MG",
+    "lat": -16.2075114,
+    "lon": -44.430559
+  },
+  {
+    "code": "3108701",
+    "name": "Brás Pires",
+    "state": "MG",
+    "lat": -20.8483109,
+    "lon": -43.2430524
+  },
+  {
+    "code": "3108800",
+    "name": "Braúnas",
+    "state": "MG",
+    "lat": -19.055556,
+    "lon": -42.716111
+  },
+  {
+    "code": "3108909",
+    "name": "Brazópolis",
+    "state": "MG",
+    "lat": -22.4742842,
+    "lon": -45.6165577
+  },
+  {
+    "code": "3109006",
+    "name": "Brumadinho",
+    "state": "MG",
+    "lat": -20.143611,
+    "lon": -44.2
+  },
+  {
+    "code": "3109105",
+    "name": "Bueno Brandão",
+    "state": "MG",
+    "lat": -22.441421,
+    "lon": -46.3475825
+  },
+  {
+    "code": "3109204",
+    "name": "Buenópolis",
+    "state": "MG",
+    "lat": -17.8756607,
+    "lon": -44.1749365
+  },
+  {
+    "code": "3109253",
+    "name": "Bugre",
+    "state": "MG",
+    "lat": -19.4257687,
+    "lon": -42.2556
+  },
+  {
+    "code": "3109303",
+    "name": "Buritis",
+    "state": "MG",
+    "lat": -15.621389,
+    "lon": -46.423889
+  },
+  {
+    "code": "3109402",
+    "name": "Buritizeiro",
+    "state": "MG",
+    "lat": -17.3667765,
+    "lon": -44.9647781
+  },
+  {
+    "code": "3109451",
+    "name": "Cabeceira Grande",
+    "state": "MG",
+    "lat": -16.0297,
+    "lon": -47.0906
+  },
+  {
+    "code": "3109501",
+    "name": "Cabo Verde",
+    "state": "MG",
+    "lat": -21.4743338,
+    "lon": -46.3964995
+  },
+  {
+    "code": "3109600",
+    "name": "Cachoeira da Prata",
+    "state": "MG",
+    "lat": -19.524723,
+    "lon": -44.453056
+  },
+  {
+    "code": "3109709",
+    "name": "Cachoeira de Minas",
+    "state": "MG",
+    "lat": -22.3554043,
+    "lon": -45.7796324
+  },
+  {
+    "code": "3109808",
+    "name": "Cachoeira Dourada",
+    "state": "MG",
+    "lat": -18.517136,
+    "lon": -49.5002062
+  },
+  {
+    "code": "3109907",
+    "name": "Caetanópolis",
+    "state": "MG",
+    "lat": -19.2947496,
+    "lon": -44.4138386
+  },
+  {
+    "code": "3110004",
+    "name": "Caeté",
+    "state": "MG",
+    "lat": -19.897777,
+    "lon": -43.670278
+  },
+  {
+    "code": "3110103",
+    "name": "Caiana",
+    "state": "MG",
+    "lat": -20.695555,
+    "lon": -41.924723
+  },
+  {
+    "code": "3110202",
+    "name": "Cajuri",
+    "state": "MG",
+    "lat": -20.7901414,
+    "lon": -42.7954489
+  },
+  {
+    "code": "3110301",
+    "name": "Caldas",
+    "state": "MG",
+    "lat": -21.923611,
+    "lon": -46.386111
+  },
+  {
+    "code": "3110400",
+    "name": "Camacho",
+    "state": "MG",
+    "lat": -20.625556,
+    "lon": -45.156667
+  },
+  {
+    "code": "3110509",
+    "name": "Camanducaia",
+    "state": "MG",
+    "lat": -22.755278,
+    "lon": -46.144444
+  },
+  {
+    "code": "3110608",
+    "name": "Cambuí",
+    "state": "MG",
+    "lat": -22.6122501,
+    "lon": -46.0572137
+  },
+  {
+    "code": "3110707",
+    "name": "Cambuquira",
+    "state": "MG",
+    "lat": -21.853056,
+    "lon": -45.2953619
+  },
+  {
+    "code": "3110806",
+    "name": "Campanário",
+    "state": "MG",
+    "lat": -18.2392822,
+    "lon": -41.7271598
+  },
+  {
+    "code": "3110905",
+    "name": "Campanha",
+    "state": "MG",
+    "lat": -21.8361108,
+    "lon": -45.401986
+  },
+  {
+    "code": "3111002",
+    "name": "Campestre",
+    "state": "MG",
+    "lat": -21.711111,
+    "lon": -46.246389
+  },
+  {
+    "code": "3111101",
+    "name": "Campina Verde",
+    "state": "MG",
+    "lat": -19.535277,
+    "lon": -49.486389
+  },
+  {
+    "code": "3111150",
+    "name": "Campo Azul",
+    "state": "MG",
+    "lat": -16.5078525,
+    "lon": -44.8133524
+  },
+  {
+    "code": "3111200",
+    "name": "Campo Belo",
+    "state": "MG",
+    "lat": -20.8975,
+    "lon": -45.277223
+  },
+  {
+    "code": "3111309",
+    "name": "Campo do Meio",
+    "state": "MG",
+    "lat": -21.1072006,
+    "lon": -45.8301735
+  },
+  {
+    "code": "3111408",
+    "name": "Campo Florido",
+    "state": "MG",
+    "lat": -19.7605907,
+    "lon": -48.5719816
+  },
+  {
+    "code": "3111507",
+    "name": "Campos Altos",
+    "state": "MG",
+    "lat": -19.696389,
+    "lon": -46.171389
+  },
+  {
+    "code": "3111606",
+    "name": "Campos Gerais",
+    "state": "MG",
+    "lat": -21.2333342,
+    "lon": -45.7584127
+  },
+  {
+    "code": "3111705",
+    "name": "Canaã",
+    "state": "MG",
+    "lat": -20.685555,
+    "lon": -42.62
+  },
+  {
+    "code": "3111804",
+    "name": "Canápolis",
+    "state": "MG",
+    "lat": -18.7228793,
+    "lon": -49.2016329
+  },
+  {
+    "code": "3111903",
+    "name": "Cana Verde",
+    "state": "MG",
+    "lat": -21.021308,
+    "lon": -45.1817881
+  },
+  {
+    "code": "3112000",
+    "name": "Candeias",
+    "state": "MG",
+    "lat": -20.7676161,
+    "lon": -45.2763777
+  },
+  {
+    "code": "3112059",
+    "name": "Cantagalo",
+    "state": "MG",
+    "lat": -18.5271683,
+    "lon": -42.6252197
+  },
+  {
+    "code": "3112109",
+    "name": "Caparaó",
+    "state": "MG",
+    "lat": -20.5232726,
+    "lon": -41.9049984
+  },
+  {
+    "code": "3112208",
+    "name": "Capela Nova",
+    "state": "MG",
+    "lat": -20.9236773,
+    "lon": -43.6179487
+  },
+  {
+    "code": "3112307",
+    "name": "Capelinha",
+    "state": "MG",
+    "lat": -17.693889,
+    "lon": -42.518611
+  },
+  {
+    "code": "3112406",
+    "name": "Capetinga",
+    "state": "MG",
+    "lat": -20.6180809,
+    "lon": -47.0570855
+  },
+  {
+    "code": "3112505",
+    "name": "Capim Branco",
+    "state": "MG",
+    "lat": -19.548333,
+    "lon": -44.133056
+  },
+  {
+    "code": "3112604",
+    "name": "Capinópolis",
+    "state": "MG",
+    "lat": -18.682778,
+    "lon": -49.569723
+  },
+  {
+    "code": "3112653",
+    "name": "Capitão Andrade",
+    "state": "MG",
+    "lat": -19.0675,
+    "lon": -41.859722
+  },
+  {
+    "code": "3112703",
+    "name": "Capitão Enéas",
+    "state": "MG",
+    "lat": -16.3236018,
+    "lon": -43.7154584
+  },
+  {
+    "code": "3112802",
+    "name": "Capitólio",
+    "state": "MG",
+    "lat": -20.6114193,
+    "lon": -46.1326543
+  },
+  {
+    "code": "3112901",
+    "name": "Caputira",
+    "state": "MG",
+    "lat": -20.171945,
+    "lon": -42.270278
+  },
+  {
+    "code": "3113008",
+    "name": "Caraí",
+    "state": "MG",
+    "lat": -17.1884104,
+    "lon": -41.6976554
+  },
+  {
+    "code": "3113107",
+    "name": "Caranaíba",
+    "state": "MG",
+    "lat": -20.8736914,
+    "lon": -43.7379458
+  },
+  {
+    "code": "3113206",
+    "name": "Carandaí",
+    "state": "MG",
+    "lat": -20.9526569,
+    "lon": -43.8066788
+  },
+  {
+    "code": "3113305",
+    "name": "Carangola",
+    "state": "MG",
+    "lat": -20.733638,
+    "lon": -42.0299412
+  },
+  {
+    "code": "3113404",
+    "name": "Caratinga",
+    "state": "MG",
+    "lat": -19.7900887,
+    "lon": -42.140533
+  },
+  {
+    "code": "3113503",
+    "name": "Carbonita",
+    "state": "MG",
+    "lat": -17.5308667,
+    "lon": -43.0136207
+  },
+  {
+    "code": "3113602",
+    "name": "Careaçu",
+    "state": "MG",
+    "lat": -22.0434124,
+    "lon": -45.6995247
+  },
+  {
+    "code": "3113701",
+    "name": "Carlos Chagas",
+    "state": "MG",
+    "lat": -17.7030797,
+    "lon": -40.7632936
+  },
+  {
+    "code": "3113800",
+    "name": "Carmésia",
+    "state": "MG",
+    "lat": -19.0854535,
+    "lon": -43.1392003
+  },
+  {
+    "code": "3113909",
+    "name": "Carmo da Cachoeira",
+    "state": "MG",
+    "lat": -21.460556,
+    "lon": -45.223334
+  },
+  {
+    "code": "3114006",
+    "name": "Carmo da Mata",
+    "state": "MG",
+    "lat": -20.558334,
+    "lon": -44.8703774
+  },
+  {
+    "code": "3114105",
+    "name": "Carmo de Minas",
+    "state": "MG",
+    "lat": -22.1216655,
+    "lon": -45.1323836
+  },
+  {
+    "code": "3114204",
+    "name": "Carmo do Cajuru",
+    "state": "MG",
+    "lat": -20.184444,
+    "lon": -44.770834
+  },
+  {
+    "code": "3114303",
+    "name": "Carmo do Paranaíba",
+    "state": "MG",
+    "lat": -18.9992327,
+    "lon": -46.306916
+  },
+  {
+    "code": "3114402",
+    "name": "Carmo do Rio Claro",
+    "state": "MG",
+    "lat": -20.973315,
+    "lon": -46.1186754
+  },
+  {
+    "code": "3114501",
+    "name": "Carmópolis de Minas",
+    "state": "MG",
+    "lat": -20.541224,
+    "lon": -44.6350611
+  },
+  {
+    "code": "3114550",
+    "name": "Carneirinho",
+    "state": "MG",
+    "lat": -19.6975,
+    "lon": -50.688055
+  },
+  {
+    "code": "3114600",
+    "name": "Carrancas",
+    "state": "MG",
+    "lat": -21.4910462,
+    "lon": -44.6436151
+  },
+  {
+    "code": "3114709",
+    "name": "Carvalhópolis",
+    "state": "MG",
+    "lat": -21.7773461,
+    "lon": -45.8412117
+  },
+  {
+    "code": "3114808",
+    "name": "Carvalhos",
+    "state": "MG",
+    "lat": -22.001667,
+    "lon": -44.461667
+  },
+  {
+    "code": "3114907",
+    "name": "Casa Grande",
+    "state": "MG",
+    "lat": -20.7937571,
+    "lon": -43.928693
+  },
+  {
+    "code": "3115003",
+    "name": "Cascalho Rico",
+    "state": "MG",
+    "lat": -18.579344,
+    "lon": -47.875774
+  },
+  {
+    "code": "3115102",
+    "name": "Cássia",
+    "state": "MG",
+    "lat": -20.5837538,
+    "lon": -46.9219923
+  },
+  {
+    "code": "3115201",
+    "name": "Conceição da Barra de Minas",
+    "state": "MG",
+    "lat": -21.128889,
+    "lon": -44.472223
+  },
+  {
+    "code": "3115300",
+    "name": "Cataguases",
+    "state": "MG",
+    "lat": -21.387426,
+    "lon": -42.6957219
+  },
+  {
+    "code": "3115359",
+    "name": "Catas Altas",
+    "state": "MG",
+    "lat": -20.0748989,
+    "lon": -43.4078304
+  },
+  {
+    "code": "3115409",
+    "name": "Catas Altas da Noruega",
+    "state": "MG",
+    "lat": -20.6896547,
+    "lon": -43.4984978
+  },
+  {
+    "code": "3115458",
+    "name": "Catuji",
+    "state": "MG",
+    "lat": -17.3023659,
+    "lon": -41.5166395
+  },
+  {
+    "code": "3115474",
+    "name": "Catuti",
+    "state": "MG",
+    "lat": -15.3597,
+    "lon": -42.9628
+  },
+  {
+    "code": "3115508",
+    "name": "Caxambu",
+    "state": "MG",
+    "lat": -21.9755872,
+    "lon": -44.9311403
+  },
+  {
+    "code": "3115607",
+    "name": "Cedro do Abaeté",
+    "state": "MG",
+    "lat": -19.148333,
+    "lon": -45.711389
+  },
+  {
+    "code": "3115706",
+    "name": "Central de Minas",
+    "state": "MG",
+    "lat": -18.7612885,
+    "lon": -41.3071204
+  },
+  {
+    "code": "3115805",
+    "name": "Centralina",
+    "state": "MG",
+    "lat": -18.5843349,
+    "lon": -49.1954739
+  },
+  {
+    "code": "3115904",
+    "name": "Chácara",
+    "state": "MG",
+    "lat": -21.6727567,
+    "lon": -43.2206851
+  },
+  {
+    "code": "3116001",
+    "name": "Chalé",
+    "state": "MG",
+    "lat": -20.0419425,
+    "lon": -41.6909618
+  },
+  {
+    "code": "3116100",
+    "name": "Chapada do Norte",
+    "state": "MG",
+    "lat": -17.0880036,
+    "lon": -42.5380774
+  },
+  {
+    "code": "3116159",
+    "name": "Chapada Gaúcha",
+    "state": "MG",
+    "lat": -15.2946253,
+    "lon": -45.6284904
+  },
+  {
+    "code": "3116209",
+    "name": "Chiador",
+    "state": "MG",
+    "lat": -22.0041759,
+    "lon": -43.0575589
+  },
+  {
+    "code": "3116308",
+    "name": "Cipotânea",
+    "state": "MG",
+    "lat": -20.905278,
+    "lon": -43.365556
+  },
+  {
+    "code": "3116407",
+    "name": "Claraval",
+    "state": "MG",
+    "lat": -20.4019611,
+    "lon": -47.2851534
+  },
+  {
+    "code": "3116506",
+    "name": "Claro dos Poções",
+    "state": "MG",
+    "lat": -17.0758235,
+    "lon": -44.2117357
+  },
+  {
+    "code": "3116605",
+    "name": "Cláudio",
+    "state": "MG",
+    "lat": -20.4448485,
+    "lon": -44.7655217
+  },
+  {
+    "code": "3116704",
+    "name": "Coimbra",
+    "state": "MG",
+    "lat": -20.8563255,
+    "lon": -42.8026943
+  },
+  {
+    "code": "3116803",
+    "name": "Coluna",
+    "state": "MG",
+    "lat": -18.2327272,
+    "lon": -42.8402912
+  },
+  {
+    "code": "3116902",
+    "name": "Comendador Gomes",
+    "state": "MG",
+    "lat": -19.695155,
+    "lon": -49.0843408
+  },
+  {
+    "code": "3117009",
+    "name": "Comercinho",
+    "state": "MG",
+    "lat": -16.2965093,
+    "lon": -41.7930954
+  },
+  {
+    "code": "3117108",
+    "name": "Conceição da Aparecida",
+    "state": "MG",
+    "lat": -21.094166,
+    "lon": -46.204444
+  },
+  {
+    "code": "3117207",
+    "name": "Conceição das Pedras",
+    "state": "MG",
+    "lat": -22.1596572,
+    "lon": -45.4550521
+  },
+  {
+    "code": "3117306",
+    "name": "Conceição das Alagoas",
+    "state": "MG",
+    "lat": -19.9194009,
+    "lon": -48.3803414
+  },
+  {
+    "code": "3117405",
+    "name": "Conceição de Ipanema",
+    "state": "MG",
+    "lat": -19.9290384,
+    "lon": -41.6905072
+  },
+  {
+    "code": "3117504",
+    "name": "Conceição do Mato Dentro",
+    "state": "MG",
+    "lat": -19.037222,
+    "lon": -43.425278
+  },
+  {
+    "code": "3117603",
+    "name": "Conceição do Pará",
+    "state": "MG",
+    "lat": -19.752222,
+    "lon": -44.896944
+  },
+  {
+    "code": "3117702",
+    "name": "Conceição do Rio Verde",
+    "state": "MG",
+    "lat": -21.881078,
+    "lon": -45.0868526
+  },
+  {
+    "code": "3117801",
+    "name": "Conceição dos Ouros",
+    "state": "MG",
+    "lat": -22.4124143,
+    "lon": -45.797067
+  },
+  {
+    "code": "3117836",
+    "name": "Cônego Marinho",
+    "state": "MG",
+    "lat": -15.2974056,
+    "lon": -44.4140513
+  },
+  {
+    "code": "3117876",
+    "name": "Confins",
+    "state": "MG",
+    "lat": -19.6278749,
+    "lon": -43.9912311
+  },
+  {
+    "code": "3117900",
+    "name": "Congonhal",
+    "state": "MG",
+    "lat": -22.1532505,
+    "lon": -46.0404698
+  },
+  {
+    "code": "3118007",
+    "name": "Congonhas",
+    "state": "MG",
+    "lat": -20.5015168,
+    "lon": -43.8564586
+  },
+  {
+    "code": "3118106",
+    "name": "Congonhas do Norte",
+    "state": "MG",
+    "lat": -18.8100392,
+    "lon": -43.6783242
+  },
+  {
+    "code": "3118205",
+    "name": "Conquista",
+    "state": "MG",
+    "lat": -19.936944,
+    "lon": -47.543055
+  },
+  {
+    "code": "3118304",
+    "name": "Conselheiro Lafaiete",
+    "state": "MG",
+    "lat": -20.6596107,
+    "lon": -43.785743
+  },
+  {
+    "code": "3118403",
+    "name": "Conselheiro Pena",
+    "state": "MG",
+    "lat": -19.1720883,
+    "lon": -41.471995
+  },
+  {
+    "code": "3118502",
+    "name": "Consolação",
+    "state": "MG",
+    "lat": -22.551389,
+    "lon": -45.921111
+  },
+  {
+    "code": "3118601",
+    "name": "Contagem",
+    "state": "MG",
+    "lat": -19.9132749,
+    "lon": -44.0840953
+  },
+  {
+    "code": "3118700",
+    "name": "Coqueiral",
+    "state": "MG",
+    "lat": -21.1898365,
+    "lon": -45.4409829
+  },
+  {
+    "code": "3118809",
+    "name": "Coração de Jesus",
+    "state": "MG",
+    "lat": -16.6888187,
+    "lon": -44.3577401
+  },
+  {
+    "code": "3118908",
+    "name": "Cordisburgo",
+    "state": "MG",
+    "lat": -19.125834,
+    "lon": -44.320278
+  },
+  {
+    "code": "3119005",
+    "name": "Cordislândia",
+    "state": "MG",
+    "lat": -21.792843,
+    "lon": -45.7029983
+  },
+  {
+    "code": "3119104",
+    "name": "Corinto",
+    "state": "MG",
+    "lat": -18.363056,
+    "lon": -44.456111
+  },
+  {
+    "code": "3119203",
+    "name": "Coroaci",
+    "state": "MG",
+    "lat": -18.6194369,
+    "lon": -42.2830239
+  },
+  {
+    "code": "3119302",
+    "name": "Coromandel",
+    "state": "MG",
+    "lat": -18.473889,
+    "lon": -47.200278
+  },
+  {
+    "code": "3119401",
+    "name": "Coronel Fabriciano",
+    "state": "MG",
+    "lat": -19.5200067,
+    "lon": -42.6282686
+  },
+  {
+    "code": "3119500",
+    "name": "Coronel Murta",
+    "state": "MG",
+    "lat": -16.6166083,
+    "lon": -42.1844146
+  },
+  {
+    "code": "3119609",
+    "name": "Coronel Pacheco",
+    "state": "MG",
+    "lat": -21.5878865,
+    "lon": -43.2615975
+  },
+  {
+    "code": "3119708",
+    "name": "Coronel Xavier Chaves",
+    "state": "MG",
+    "lat": -21.0234482,
+    "lon": -44.2233108
+  },
+  {
+    "code": "3119807",
+    "name": "Córrego Danta",
+    "state": "MG",
+    "lat": -19.823889,
+    "lon": -45.904167
+  },
+  {
+    "code": "3119906",
+    "name": "Córrego do Bom Jesus",
+    "state": "MG",
+    "lat": -22.630556,
+    "lon": -46.019723
+  },
+  {
+    "code": "3119955",
+    "name": "Córrego Fundo",
+    "state": "MG",
+    "lat": -20.4490405,
+    "lon": -45.5558238
+  },
+  {
+    "code": "3120003",
+    "name": "Córrego Novo",
+    "state": "MG",
+    "lat": -19.832223,
+    "lon": -42.395833
+  },
+  {
+    "code": "3120102",
+    "name": "Couto de Magalhães de Minas",
+    "state": "MG",
+    "lat": -18.073056,
+    "lon": -43.4718628
+  },
+  {
+    "code": "3120151",
+    "name": "Crisólita",
+    "state": "MG",
+    "lat": -17.2382595,
+    "lon": -40.9128691
+  },
+  {
+    "code": "3120201",
+    "name": "Cristais",
+    "state": "MG",
+    "lat": -20.875834,
+    "lon": -45.518611
+  },
+  {
+    "code": "3120300",
+    "name": "Cristália",
+    "state": "MG",
+    "lat": -16.7179933,
+    "lon": -42.8648107
+  },
+  {
+    "code": "3120409",
+    "name": "Cristiano Otoni",
+    "state": "MG",
+    "lat": -20.8324096,
+    "lon": -43.8053057
+  },
+  {
+    "code": "3120508",
+    "name": "Cristina",
+    "state": "MG",
+    "lat": -22.212222,
+    "lon": -45.264167
+  },
+  {
+    "code": "3120607",
+    "name": "Crucilândia",
+    "state": "MG",
+    "lat": -20.3985647,
+    "lon": -44.3429275
+  },
+  {
+    "code": "3120706",
+    "name": "Cruzeiro da Fortaleza",
+    "state": "MG",
+    "lat": -18.9461873,
+    "lon": -46.6738005
+  },
+  {
+    "code": "3120805",
+    "name": "Cruzília",
+    "state": "MG",
+    "lat": -21.838333,
+    "lon": -44.808056
+  },
+  {
+    "code": "3120839",
+    "name": "Cuparaque",
+    "state": "MG",
+    "lat": -18.9699032,
+    "lon": -41.0992818
+  },
+  {
+    "code": "3120870",
+    "name": "Curral de Dentro",
+    "state": "MG",
+    "lat": -15.9378229,
+    "lon": -41.8545118
+  },
+  {
+    "code": "3120904",
+    "name": "Curvelo",
+    "state": "MG",
+    "lat": -18.7571926,
+    "lon": -44.4305993
+  },
+  {
+    "code": "3121001",
+    "name": "Datas",
+    "state": "MG",
+    "lat": -18.4459187,
+    "lon": -43.6584287
+  },
+  {
+    "code": "3121100",
+    "name": "Delfim Moreira",
+    "state": "MG",
+    "lat": -22.5086783,
+    "lon": -45.2792398
+  },
+  {
+    "code": "3121209",
+    "name": "Delfinópolis",
+    "state": "MG",
+    "lat": -20.344749,
+    "lon": -46.8546425
+  },
+  {
+    "code": "3121258",
+    "name": "Delta",
+    "state": "MG",
+    "lat": -19.9769,
+    "lon": -47.7711
+  },
+  {
+    "code": "3121308",
+    "name": "Descoberto",
+    "state": "MG",
+    "lat": -21.459444,
+    "lon": -42.967223
+  },
+  {
+    "code": "3121407",
+    "name": "Desterro de Entre Rios",
+    "state": "MG",
+    "lat": -20.66,
+    "lon": -44.332223
+  },
+  {
+    "code": "3121506",
+    "name": "Desterro do Melo",
+    "state": "MG",
+    "lat": -21.1460033,
+    "lon": -43.518329
+  },
+  {
+    "code": "3121605",
+    "name": "Diamantina",
+    "state": "MG",
+    "lat": -18.2440862,
+    "lon": -43.6006487
+  },
+  {
+    "code": "3121704",
+    "name": "Diogo de Vasconcelos",
+    "state": "MG",
+    "lat": -20.4868723,
+    "lon": -43.1984645
+  },
+  {
+    "code": "3121803",
+    "name": "Dionísio",
+    "state": "MG",
+    "lat": -19.841944,
+    "lon": -42.776945
+  },
+  {
+    "code": "3121902",
+    "name": "Divinésia",
+    "state": "MG",
+    "lat": -20.990277,
+    "lon": -43.003889
+  },
+  {
+    "code": "3122009",
+    "name": "Divino",
+    "state": "MG",
+    "lat": -20.6151497,
+    "lon": -42.1474733
+  },
+  {
+    "code": "3122108",
+    "name": "Divino das Laranjeiras",
+    "state": "MG",
+    "lat": -18.7782581,
+    "lon": -41.4797376
+  },
+  {
+    "code": "3122207",
+    "name": "Divinolândia de Minas",
+    "state": "MG",
+    "lat": -18.8021453,
+    "lon": -42.6153788
+  },
+  {
+    "code": "3122306",
+    "name": "Divinópolis",
+    "state": "MG",
+    "lat": -20.1597921,
+    "lon": -44.8739341
+  },
+  {
+    "code": "3122355",
+    "name": "Divisa Alegre",
+    "state": "MG",
+    "lat": -15.7208452,
+    "lon": -41.3433705
+  },
+  {
+    "code": "3122405",
+    "name": "Divisa Nova",
+    "state": "MG",
+    "lat": -21.5126801,
+    "lon": -46.1926626
+  },
+  {
+    "code": "3122454",
+    "name": "Divisópolis",
+    "state": "MG",
+    "lat": -15.7216545,
+    "lon": -41.0032019
+  },
+  {
+    "code": "3122470",
+    "name": "Dom Bosco",
+    "state": "MG",
+    "lat": -16.6516044,
+    "lon": -46.2677917
+  },
+  {
+    "code": "3122504",
+    "name": "Dom Cavati",
+    "state": "MG",
+    "lat": -19.3744152,
+    "lon": -42.1067301
+  },
+  {
+    "code": "3122603",
+    "name": "Dom Joaquim",
+    "state": "MG",
+    "lat": -18.967137,
+    "lon": -43.2552141
+  },
+  {
+    "code": "3122702",
+    "name": "Dom Silvério",
+    "state": "MG",
+    "lat": -20.1631352,
+    "lon": -42.9666824
+  },
+  {
+    "code": "3122801",
+    "name": "Dom Viçoso",
+    "state": "MG",
+    "lat": -22.2534164,
+    "lon": -45.1603324
+  },
+  {
+    "code": "3122900",
+    "name": "Dona Euzébia",
+    "state": "MG",
+    "lat": -21.316667,
+    "lon": -42.810556
+  },
+  {
+    "code": "3123007",
+    "name": "Dores de Campos",
+    "state": "MG",
+    "lat": -21.107222,
+    "lon": -44.0225
+  },
+  {
+    "code": "3123106",
+    "name": "Dores de Guanhães",
+    "state": "MG",
+    "lat": -19.0578968,
+    "lon": -42.9292569
+  },
+  {
+    "code": "3123205",
+    "name": "Dores do Indaiá",
+    "state": "MG",
+    "lat": -19.4636451,
+    "lon": -45.60166
+  },
+  {
+    "code": "3123304",
+    "name": "Dores do Turvo",
+    "state": "MG",
+    "lat": -20.975278,
+    "lon": -43.188889
+  },
+  {
+    "code": "3123403",
+    "name": "Doresópolis",
+    "state": "MG",
+    "lat": -20.287222,
+    "lon": -45.903056
+  },
+  {
+    "code": "3123502",
+    "name": "Douradoquara",
+    "state": "MG",
+    "lat": -18.431062,
+    "lon": -47.608269
+  },
+  {
+    "code": "3123528",
+    "name": "Durandé",
+    "state": "MG",
+    "lat": -20.2026282,
+    "lon": -41.798777
+  },
+  {
+    "code": "3123601",
+    "name": "Elói Mendes",
+    "state": "MG",
+    "lat": -21.6094466,
+    "lon": -45.5660211
+  },
+  {
+    "code": "3123700",
+    "name": "Engenheiro Caldas",
+    "state": "MG",
+    "lat": -19.201389,
+    "lon": -42.046944
+  },
+  {
+    "code": "3123809",
+    "name": "Engenheiro Navarro",
+    "state": "MG",
+    "lat": -17.286622,
+    "lon": -43.9515719
+  },
+  {
+    "code": "3123858",
+    "name": "Entre Folhas",
+    "state": "MG",
+    "lat": -19.6258823,
+    "lon": -42.2328975
+  },
+  {
+    "code": "3123908",
+    "name": "Entre Rios de Minas",
+    "state": "MG",
+    "lat": -20.670834,
+    "lon": -44.065556
+  },
+  {
+    "code": "3124005",
+    "name": "Ervália",
+    "state": "MG",
+    "lat": -20.8377232,
+    "lon": -42.6559789
+  },
+  {
+    "code": "3124104",
+    "name": "Esmeraldas",
+    "state": "MG",
+    "lat": -19.7613111,
+    "lon": -44.3145945
+  },
+  {
+    "code": "3124203",
+    "name": "Espera Feliz",
+    "state": "MG",
+    "lat": -20.6494192,
+    "lon": -41.9080693
+  },
+  {
+    "code": "3124302",
+    "name": "Espinosa",
+    "state": "MG",
+    "lat": -14.9232007,
+    "lon": -42.8093337
+  },
+  {
+    "code": "3124401",
+    "name": "Espírito Santo do Dourado",
+    "state": "MG",
+    "lat": -22.046666,
+    "lon": -45.950833
+  },
+  {
+    "code": "3124500",
+    "name": "Estiva",
+    "state": "MG",
+    "lat": -22.4638686,
+    "lon": -46.0182101
+  },
+  {
+    "code": "3124609",
+    "name": "Estrela Dalva",
+    "state": "MG",
+    "lat": -21.741666,
+    "lon": -42.460833
+  },
+  {
+    "code": "3124708",
+    "name": "Estrela do Indaiá",
+    "state": "MG",
+    "lat": -19.5225,
+    "lon": -45.7875
+  },
+  {
+    "code": "3124807",
+    "name": "Estrela do Sul",
+    "state": "MG",
+    "lat": -18.7420499,
+    "lon": -47.6900736
+  },
+  {
+    "code": "3124906",
+    "name": "Eugenópolis",
+    "state": "MG",
+    "lat": -21.097549,
+    "lon": -42.1853298
+  },
+  {
+    "code": "3125002",
+    "name": "Ewbank da Câmara",
+    "state": "MG",
+    "lat": -21.551389,
+    "lon": -43.509722
+  },
+  {
+    "code": "3125101",
+    "name": "Extrema",
+    "state": "MG",
+    "lat": -22.8548355,
+    "lon": -46.3184553
+  },
+  {
+    "code": "3125200",
+    "name": "Fama",
+    "state": "MG",
+    "lat": -21.4090398,
+    "lon": -45.8322579
+  },
+  {
+    "code": "3125309",
+    "name": "Faria Lemos",
+    "state": "MG",
+    "lat": -20.8051202,
+    "lon": -42.0127393
+  },
+  {
+    "code": "3125408",
+    "name": "Felício dos Santos",
+    "state": "MG",
+    "lat": -18.0765035,
+    "lon": -43.2471128
+  },
+  {
+    "code": "3125507",
+    "name": "São Gonçalo do Rio Preto",
+    "state": "MG",
+    "lat": -18.0042852,
+    "lon": -43.3811575
+  },
+  {
+    "code": "3125606",
+    "name": "Felisburgo",
+    "state": "MG",
+    "lat": -16.6400483,
+    "lon": -40.7614691
+  },
+  {
+    "code": "3125705",
+    "name": "Felixlândia",
+    "state": "MG",
+    "lat": -18.7573983,
+    "lon": -44.8991465
+  },
+  {
+    "code": "3125804",
+    "name": "Fernandes Tourinho",
+    "state": "MG",
+    "lat": -19.152778,
+    "lon": -42.083056
+  },
+  {
+    "code": "3125903",
+    "name": "Ferros",
+    "state": "MG",
+    "lat": -19.234984,
+    "lon": -43.019542
+  },
+  {
+    "code": "3125952",
+    "name": "Fervedouro",
+    "state": "MG",
+    "lat": -20.7295764,
+    "lon": -42.2792737
+  },
+  {
+    "code": "3126000",
+    "name": "Florestal",
+    "state": "MG",
+    "lat": -19.8878705,
+    "lon": -44.4314766
+  },
+  {
+    "code": "3126109",
+    "name": "Formiga",
+    "state": "MG",
+    "lat": -20.4648425,
+    "lon": -45.4266753
+  },
+  {
+    "code": "3126208",
+    "name": "Formoso",
+    "state": "MG",
+    "lat": -14.9513078,
+    "lon": -46.234247
+  },
+  {
+    "code": "3126307",
+    "name": "Fortaleza de Minas",
+    "state": "MG",
+    "lat": -20.849166,
+    "lon": -46.712222
+  },
+  {
+    "code": "3126406",
+    "name": "Fortuna de Minas",
+    "state": "MG",
+    "lat": -19.561662,
+    "lon": -44.4451854
+  },
+  {
+    "code": "3126505",
+    "name": "Francisco Badaró",
+    "state": "MG",
+    "lat": -16.9917524,
+    "lon": -42.350899
+  },
+  {
+    "code": "3126604",
+    "name": "Francisco Dumont",
+    "state": "MG",
+    "lat": -17.3117541,
+    "lon": -44.2322232
+  },
+  {
+    "code": "3126703",
+    "name": "Francisco Sá",
+    "state": "MG",
+    "lat": -16.4777211,
+    "lon": -43.4942587
+  },
+  {
+    "code": "3126752",
+    "name": "Franciscópolis",
+    "state": "MG",
+    "lat": -17.9591636,
+    "lon": -42.0088582
+  },
+  {
+    "code": "3126802",
+    "name": "Frei Gaspar",
+    "state": "MG",
+    "lat": -18.0633426,
+    "lon": -41.4300673
+  },
+  {
+    "code": "3126901",
+    "name": "Frei Inocêncio",
+    "state": "MG",
+    "lat": -18.5651322,
+    "lon": -41.9077144
+  },
+  {
+    "code": "3126950",
+    "name": "Frei Lagonegro",
+    "state": "MG",
+    "lat": -18.1671176,
+    "lon": -42.7656893
+  },
+  {
+    "code": "3127008",
+    "name": "Fronteira",
+    "state": "MG",
+    "lat": -20.286111,
+    "lon": -49.202778
+  },
+  {
+    "code": "3127057",
+    "name": "Fronteira dos Vales",
+    "state": "MG",
+    "lat": -16.8929212,
+    "lon": -40.9250417
+  },
+  {
+    "code": "3127073",
+    "name": "Fruta de Leite",
+    "state": "MG",
+    "lat": -16.1169,
+    "lon": -42.5278
+  },
+  {
+    "code": "3127107",
+    "name": "Frutal",
+    "state": "MG",
+    "lat": -20.0220064,
+    "lon": -48.9280076
+  },
+  {
+    "code": "3127206",
+    "name": "Funilândia",
+    "state": "MG",
+    "lat": -19.3711961,
+    "lon": -44.0599481
+  },
+  {
+    "code": "3127305",
+    "name": "Galiléia",
+    "state": "MG",
+    "lat": -19.0008297,
+    "lon": -41.5388481
+  },
+  {
+    "code": "3127339",
+    "name": "Gameleiras",
+    "state": "MG",
+    "lat": -15.0833558,
+    "lon": -43.1171391
+  },
+  {
+    "code": "3127354",
+    "name": "Glaucilândia",
+    "state": "MG",
+    "lat": -16.8497,
+    "lon": -43.6972
+  },
+  {
+    "code": "3127370",
+    "name": "Goiabeira",
+    "state": "MG",
+    "lat": -18.9819759,
+    "lon": -41.2246203
+  },
+  {
+    "code": "3127388",
+    "name": "Goianá",
+    "state": "MG",
+    "lat": -21.5375,
+    "lon": -43.2014
+  },
+  {
+    "code": "3127404",
+    "name": "Gonçalves",
+    "state": "MG",
+    "lat": -22.658883,
+    "lon": -45.8558405
+  },
+  {
+    "code": "3127503",
+    "name": "Gonzaga",
+    "state": "MG",
+    "lat": -18.8239154,
+    "lon": -42.4787064
+  },
+  {
+    "code": "3127602",
+    "name": "Gouveia",
+    "state": "MG",
+    "lat": -18.4545728,
+    "lon": -43.7415904
+  },
+  {
+    "code": "3127701",
+    "name": "Governador Valadares",
+    "state": "MG",
+    "lat": -18.8698882,
+    "lon": -41.9459383
+  },
+  {
+    "code": "3127800",
+    "name": "Grão Mogol",
+    "state": "MG",
+    "lat": -16.5634214,
+    "lon": -42.8929185
+  },
+  {
+    "code": "3127909",
+    "name": "Grupiara",
+    "state": "MG",
+    "lat": -18.492777,
+    "lon": -47.7225
+  },
+  {
+    "code": "3128006",
+    "name": "Guanhães",
+    "state": "MG",
+    "lat": -18.7753627,
+    "lon": -42.9340634
+  },
+  {
+    "code": "3128105",
+    "name": "Guapé",
+    "state": "MG",
+    "lat": -20.7619937,
+    "lon": -45.9176017
+  },
+  {
+    "code": "3128204",
+    "name": "Guaraciaba",
+    "state": "MG",
+    "lat": -20.5718037,
+    "lon": -43.0057078
+  },
+  {
+    "code": "3128253",
+    "name": "Guaraciama",
+    "state": "MG",
+    "lat": -17.0129899,
+    "lon": -43.6696448
+  },
+  {
+    "code": "3128303",
+    "name": "Guaranésia",
+    "state": "MG",
+    "lat": -21.3024827,
+    "lon": -46.7956962
+  },
+  {
+    "code": "3128402",
+    "name": "Guarani",
+    "state": "MG",
+    "lat": -21.35876,
+    "lon": -43.0481021
+  },
+  {
+    "code": "3128501",
+    "name": "Guarará",
+    "state": "MG",
+    "lat": -21.731945,
+    "lon": -43.037777
+  },
+  {
+    "code": "3128600",
+    "name": "Guarda-Mor",
+    "state": "MG",
+    "lat": -17.7698233,
+    "lon": -47.0986827
+  },
+  {
+    "code": "3128709",
+    "name": "Guaxupé",
+    "state": "MG",
+    "lat": -21.3087615,
+    "lon": -46.7190609
+  },
+  {
+    "code": "3128808",
+    "name": "Guidoval",
+    "state": "MG",
+    "lat": -21.1514477,
+    "lon": -42.7997151
+  },
+  {
+    "code": "3128907",
+    "name": "Guimarânia",
+    "state": "MG",
+    "lat": -18.8442251,
+    "lon": -46.7925141
+  },
+  {
+    "code": "3129004",
+    "name": "Guiricema",
+    "state": "MG",
+    "lat": -21.0086064,
+    "lon": -42.7190891
+  },
+  {
+    "code": "3129103",
+    "name": "Gurinhatã",
+    "state": "MG",
+    "lat": -19.2114486,
+    "lon": -49.7840077
+  },
+  {
+    "code": "3129202",
+    "name": "Heliodora",
+    "state": "MG",
+    "lat": -22.0675,
+    "lon": -45.542222
+  },
+  {
+    "code": "3129301",
+    "name": "Iapu",
+    "state": "MG",
+    "lat": -19.436389,
+    "lon": -42.217223
+  },
+  {
+    "code": "3129400",
+    "name": "Ibertioga",
+    "state": "MG",
+    "lat": -21.431111,
+    "lon": -43.966111
+  },
+  {
+    "code": "3129509",
+    "name": "Ibiá",
+    "state": "MG",
+    "lat": -19.4771843,
+    "lon": -46.5386956
+  },
+  {
+    "code": "3129608",
+    "name": "Ibiaí",
+    "state": "MG",
+    "lat": -16.861111,
+    "lon": -44.913889
+  },
+  {
+    "code": "3129657",
+    "name": "Ibiracatu",
+    "state": "MG",
+    "lat": -15.6666425,
+    "lon": -44.1651165
+  },
+  {
+    "code": "3129707",
+    "name": "Ibiraci",
+    "state": "MG",
+    "lat": -20.461944,
+    "lon": -47.122223
+  },
+  {
+    "code": "3129806",
+    "name": "Ibirité",
+    "state": "MG",
+    "lat": -20.0214251,
+    "lon": -44.0621506
+  },
+  {
+    "code": "3129905",
+    "name": "Ibitiúra de Minas",
+    "state": "MG",
+    "lat": -22.060833,
+    "lon": -46.439722
+  },
+  {
+    "code": "3130002",
+    "name": "Ibituruna",
+    "state": "MG",
+    "lat": -21.1515725,
+    "lon": -44.7474347
+  },
+  {
+    "code": "3130051",
+    "name": "Icaraí de Minas",
+    "state": "MG",
+    "lat": -16.2176592,
+    "lon": -44.9023441
+  },
+  {
+    "code": "3130101",
+    "name": "Igarapé",
+    "state": "MG",
+    "lat": -20.068789,
+    "lon": -44.3017439
+  },
+  {
+    "code": "3130200",
+    "name": "Igaratinga",
+    "state": "MG",
+    "lat": -19.955278,
+    "lon": -44.7089254
+  },
+  {
+    "code": "3130309",
+    "name": "Iguatama",
+    "state": "MG",
+    "lat": -20.174445,
+    "lon": -45.711111
+  },
+  {
+    "code": "3130408",
+    "name": "Ijaci",
+    "state": "MG",
+    "lat": -21.1700929,
+    "lon": -44.9280621
+  },
+  {
+    "code": "3130507",
+    "name": "Ilicínea",
+    "state": "MG",
+    "lat": -20.9390196,
+    "lon": -45.8263558
+  },
+  {
+    "code": "3130556",
+    "name": "Imbé de Minas",
+    "state": "MG",
+    "lat": -19.5989453,
+    "lon": -41.9694294
+  },
+  {
+    "code": "3130606",
+    "name": "Inconfidentes",
+    "state": "MG",
+    "lat": -22.3168866,
+    "lon": -46.3279182
+  },
+  {
+    "code": "3130655",
+    "name": "Indaiabira",
+    "state": "MG",
+    "lat": -15.4921781,
+    "lon": -42.1971235
+  },
+  {
+    "code": "3130705",
+    "name": "Indianópolis",
+    "state": "MG",
+    "lat": -19.0391972,
+    "lon": -47.9178436
+  },
+  {
+    "code": "3130804",
+    "name": "Ingaí",
+    "state": "MG",
+    "lat": -21.400833,
+    "lon": -44.917223
+  },
+  {
+    "code": "3130903",
+    "name": "Inhapim",
+    "state": "MG",
+    "lat": -19.5501834,
+    "lon": -42.1209879
+  },
+  {
+    "code": "3131000",
+    "name": "Inhaúma",
+    "state": "MG",
+    "lat": -19.490277,
+    "lon": -44.389166
+  },
+  {
+    "code": "3131109",
+    "name": "Inimutaba",
+    "state": "MG",
+    "lat": -18.7301732,
+    "lon": -44.3623971
+  },
+  {
+    "code": "3131158",
+    "name": "Ipaba",
+    "state": "MG",
+    "lat": -19.411389,
+    "lon": -42.42
+  },
+  {
+    "code": "3131208",
+    "name": "Ipanema",
+    "state": "MG",
+    "lat": -19.7999954,
+    "lon": -41.7138807
+  },
+  {
+    "code": "3131307",
+    "name": "Ipatinga",
+    "state": "MG",
+    "lat": -19.4777807,
+    "lon": -42.5270802
+  },
+  {
+    "code": "3131406",
+    "name": "Ipiaçu",
+    "state": "MG",
+    "lat": -18.6934499,
+    "lon": -49.9439567
+  },
+  {
+    "code": "3131505",
+    "name": "Ipuiúna",
+    "state": "MG",
+    "lat": -22.0993203,
+    "lon": -46.1896557
+  },
+  {
+    "code": "3131604",
+    "name": "Iraí de Minas",
+    "state": "MG",
+    "lat": -18.9865339,
+    "lon": -47.4642202
+  },
+  {
+    "code": "3131703",
+    "name": "Itabira",
+    "state": "MG",
+    "lat": -19.6190169,
+    "lon": -43.226248
+  },
+  {
+    "code": "3131802",
+    "name": "Itabirinha",
+    "state": "MG",
+    "lat": -18.5711894,
+    "lon": -41.2339862
+  },
+  {
+    "code": "3131901",
+    "name": "Itabirito",
+    "state": "MG",
+    "lat": -20.2519724,
+    "lon": -43.8029171
+  },
+  {
+    "code": "3132008",
+    "name": "Itacambira",
+    "state": "MG",
+    "lat": -17.0671616,
+    "lon": -43.3130919
+  },
+  {
+    "code": "3132107",
+    "name": "Itacarambi",
+    "state": "MG",
+    "lat": -15.1,
+    "lon": -44.092222
+  },
+  {
+    "code": "3132206",
+    "name": "Itaguara",
+    "state": "MG",
+    "lat": -20.391389,
+    "lon": -44.488055
+  },
+  {
+    "code": "3132305",
+    "name": "Itaipé",
+    "state": "MG",
+    "lat": -17.401944,
+    "lon": -41.670278
+  },
+  {
+    "code": "3132404",
+    "name": "Itajubá",
+    "state": "MG",
+    "lat": -22.4238234,
+    "lon": -45.4524156
+  },
+  {
+    "code": "3132503",
+    "name": "Itamarandiba",
+    "state": "MG",
+    "lat": -17.8574369,
+    "lon": -42.8596742
+  },
+  {
+    "code": "3132602",
+    "name": "Itamarati de Minas",
+    "state": "MG",
+    "lat": -21.415833,
+    "lon": -42.817778
+  },
+  {
+    "code": "3132701",
+    "name": "Itambacuri",
+    "state": "MG",
+    "lat": -18.0391974,
+    "lon": -41.6751876
+  },
+  {
+    "code": "3132800",
+    "name": "Itambé do Mato Dentro",
+    "state": "MG",
+    "lat": -19.4144399,
+    "lon": -43.3223059
+  },
+  {
+    "code": "3132909",
+    "name": "Itamogi",
+    "state": "MG",
+    "lat": -21.0793213,
+    "lon": -47.048612
+  },
+  {
+    "code": "3133006",
+    "name": "Itamonte",
+    "state": "MG",
+    "lat": -22.2830726,
+    "lon": -44.8695785
+  },
+  {
+    "code": "3133105",
+    "name": "Itanhandu",
+    "state": "MG",
+    "lat": -22.2957913,
+    "lon": -44.9366732
+  },
+  {
+    "code": "3133204",
+    "name": "Itanhomi",
+    "state": "MG",
+    "lat": -19.171111,
+    "lon": -41.864167
+  },
+  {
+    "code": "3133303",
+    "name": "Itaobim",
+    "state": "MG",
+    "lat": -16.5614934,
+    "lon": -41.502275
+  },
+  {
+    "code": "3133402",
+    "name": "Itapagipe",
+    "state": "MG",
+    "lat": -19.9033884,
+    "lon": -49.3666934
+  },
+  {
+    "code": "3133501",
+    "name": "Itapecerica",
+    "state": "MG",
+    "lat": -20.472778,
+    "lon": -45.125556
+  },
+  {
+    "code": "3133600",
+    "name": "Itapeva",
+    "state": "MG",
+    "lat": -22.7690638,
+    "lon": -46.221934
+  },
+  {
+    "code": "3133709",
+    "name": "Itatiaiuçu",
+    "state": "MG",
+    "lat": -20.1975724,
+    "lon": -44.4224889
+  },
+  {
+    "code": "3133758",
+    "name": "Itaú de Minas",
+    "state": "MG",
+    "lat": -20.739722,
+    "lon": -46.752222
+  },
+  {
+    "code": "3133808",
+    "name": "Itaúna",
+    "state": "MG",
+    "lat": -20.075556,
+    "lon": -44.576389
+  },
+  {
+    "code": "3133907",
+    "name": "Itaverava",
+    "state": "MG",
+    "lat": -20.677,
+    "lon": -43.619875
+  },
+  {
+    "code": "3134004",
+    "name": "Itinga",
+    "state": "MG",
+    "lat": -16.6066757,
+    "lon": -41.7702077
+  },
+  {
+    "code": "3134103",
+    "name": "Itueta",
+    "state": "MG",
+    "lat": -19.3962456,
+    "lon": -41.2263075
+  },
+  {
+    "code": "3134202",
+    "name": "Ituiutaba",
+    "state": "MG",
+    "lat": -18.9691887,
+    "lon": -49.4639335
+  },
+  {
+    "code": "3134301",
+    "name": "Itumirim",
+    "state": "MG",
+    "lat": -21.3179406,
+    "lon": -44.8705728
+  },
+  {
+    "code": "3134400",
+    "name": "Iturama",
+    "state": "MG",
+    "lat": -19.7272733,
+    "lon": -50.193488
+  },
+  {
+    "code": "3134509",
+    "name": "Itutinga",
+    "state": "MG",
+    "lat": -21.297383,
+    "lon": -44.6575084
+  },
+  {
+    "code": "3134608",
+    "name": "Jaboticatubas",
+    "state": "MG",
+    "lat": -19.521667,
+    "lon": -43.745277
+  },
+  {
+    "code": "3134707",
+    "name": "Jacinto",
+    "state": "MG",
+    "lat": -16.143722,
+    "lon": -40.2914847
+  },
+  {
+    "code": "3134806",
+    "name": "Jacuí",
+    "state": "MG",
+    "lat": -21.0169567,
+    "lon": -46.7458301
+  },
+  {
+    "code": "3134905",
+    "name": "Jacutinga",
+    "state": "MG",
+    "lat": -22.285833,
+    "lon": -46.612222
+  },
+  {
+    "code": "3135001",
+    "name": "Jaguaraçu",
+    "state": "MG",
+    "lat": -19.6471951,
+    "lon": -42.7513291
+  },
+  {
+    "code": "3135050",
+    "name": "Jaíba",
+    "state": "MG",
+    "lat": -15.3373744,
+    "lon": -43.6734439
+  },
+  {
+    "code": "3135076",
+    "name": "Jampruca",
+    "state": "MG",
+    "lat": -18.4613981,
+    "lon": -41.8092299
+  },
+  {
+    "code": "3135100",
+    "name": "Janaúba",
+    "state": "MG",
+    "lat": -15.8103735,
+    "lon": -43.3052119
+  },
+  {
+    "code": "3135209",
+    "name": "Januária",
+    "state": "MG",
+    "lat": -15.4875,
+    "lon": -44.361111
+  },
+  {
+    "code": "3135308",
+    "name": "Japaraíba",
+    "state": "MG",
+    "lat": -20.1416346,
+    "lon": -45.5032099
+  },
+  {
+    "code": "3135357",
+    "name": "Japonvar",
+    "state": "MG",
+    "lat": -15.9980389,
+    "lon": -44.2755057
+  },
+  {
+    "code": "3135407",
+    "name": "Jeceaba",
+    "state": "MG",
+    "lat": -20.5353816,
+    "lon": -43.983346
+  },
+  {
+    "code": "3135456",
+    "name": "Jenipapo de Minas",
+    "state": "MG",
+    "lat": -17.08493,
+    "lon": -42.259576
+  },
+  {
+    "code": "3135506",
+    "name": "Jequeri",
+    "state": "MG",
+    "lat": -20.453056,
+    "lon": -42.666111
+  },
+  {
+    "code": "3135605",
+    "name": "Jequitaí",
+    "state": "MG",
+    "lat": -17.2328217,
+    "lon": -44.4383463
+  },
+  {
+    "code": "3135704",
+    "name": "Jequitibá",
+    "state": "MG",
+    "lat": -19.2361583,
+    "lon": -44.03063
+  },
+  {
+    "code": "3135803",
+    "name": "Jequitinhonha",
+    "state": "MG",
+    "lat": -16.4335098,
+    "lon": -41.0035557
+  },
+  {
+    "code": "3135902",
+    "name": "Jesuânia",
+    "state": "MG",
+    "lat": -21.997777,
+    "lon": -45.290833
+  },
+  {
+    "code": "3136009",
+    "name": "Joaíma",
+    "state": "MG",
+    "lat": -16.6550626,
+    "lon": -41.0251754
+  },
+  {
+    "code": "3136108",
+    "name": "Joanésia",
+    "state": "MG",
+    "lat": -19.1756282,
+    "lon": -42.6815534
+  },
+  {
+    "code": "3136207",
+    "name": "João Monlevade",
+    "state": "MG",
+    "lat": -19.809444,
+    "lon": -43.173334
+  },
+  {
+    "code": "3136306",
+    "name": "João Pinheiro",
+    "state": "MG",
+    "lat": -17.742777,
+    "lon": -46.175278
+  },
+  {
+    "code": "3136405",
+    "name": "Joaquim Felício",
+    "state": "MG",
+    "lat": -17.7602437,
+    "lon": -44.1701635
+  },
+  {
+    "code": "3136504",
+    "name": "Jordânia",
+    "state": "MG",
+    "lat": -15.8989202,
+    "lon": -40.1787062
+  },
+  {
+    "code": "3136520",
+    "name": "José Gonçalves de Minas",
+    "state": "MG",
+    "lat": -16.9066539,
+    "lon": -42.6074998
+  },
+  {
+    "code": "3136553",
+    "name": "José Raydan",
+    "state": "MG",
+    "lat": -18.2220672,
+    "lon": -42.4991123
+  },
+  {
+    "code": "3136579",
+    "name": "Josenópolis",
+    "state": "MG",
+    "lat": -16.5460934,
+    "lon": -42.5140963
+  },
+  {
+    "code": "3136603",
+    "name": "Nova União",
+    "state": "MG",
+    "lat": -19.6901893,
+    "lon": -43.580107
+  },
+  {
+    "code": "3136652",
+    "name": "Juatuba",
+    "state": "MG",
+    "lat": -19.954001,
+    "lon": -44.3407921
+  },
+  {
+    "code": "3136702",
+    "name": "Juiz de Fora",
+    "state": "MG",
+    "lat": -21.7609533,
+    "lon": -43.3501129
+  },
+  {
+    "code": "3136801",
+    "name": "Juramento",
+    "state": "MG",
+    "lat": -16.8458291,
+    "lon": -43.5867351
+  },
+  {
+    "code": "3136900",
+    "name": "Juruaia",
+    "state": "MG",
+    "lat": -21.252778,
+    "lon": -46.577223
+  },
+  {
+    "code": "3136959",
+    "name": "Juvenília",
+    "state": "MG",
+    "lat": -14.2660795,
+    "lon": -44.1618528
+  },
+  {
+    "code": "3137007",
+    "name": "Ladainha",
+    "state": "MG",
+    "lat": -17.627754,
+    "lon": -41.738196
+  },
+  {
+    "code": "3137106",
+    "name": "Lagamar",
+    "state": "MG",
+    "lat": -18.1789844,
+    "lon": -46.8077038
+  },
+  {
+    "code": "3137205",
+    "name": "Lagoa da Prata",
+    "state": "MG",
+    "lat": -20.022778,
+    "lon": -45.5440462
+  },
+  {
+    "code": "3137304",
+    "name": "Lagoa dos Patos",
+    "state": "MG",
+    "lat": -16.9813367,
+    "lon": -44.5783125
+  },
+  {
+    "code": "3137403",
+    "name": "Lagoa Dourada",
+    "state": "MG",
+    "lat": -20.914444,
+    "lon": -44.077778
+  },
+  {
+    "code": "3137502",
+    "name": "Lagoa Formosa",
+    "state": "MG",
+    "lat": -18.7741896,
+    "lon": -46.4082511
+  },
+  {
+    "code": "3137536",
+    "name": "Lagoa Grande",
+    "state": "MG",
+    "lat": -17.836111,
+    "lon": -46.517223
+  },
+  {
+    "code": "3137601",
+    "name": "Lagoa Santa",
+    "state": "MG",
+    "lat": -19.6357376,
+    "lon": -43.8966132
+  },
+  {
+    "code": "3137700",
+    "name": "Lajinha",
+    "state": "MG",
+    "lat": -20.1520595,
+    "lon": -41.6240623
+  },
+  {
+    "code": "3137809",
+    "name": "Lambari",
+    "state": "MG",
+    "lat": -21.9754009,
+    "lon": -45.3505415
+  },
+  {
+    "code": "3137908",
+    "name": "Lamim",
+    "state": "MG",
+    "lat": -20.7905386,
+    "lon": -43.4733218
+  },
+  {
+    "code": "3138005",
+    "name": "Laranjal",
+    "state": "MG",
+    "lat": -21.365278,
+    "lon": -42.477778
+  },
+  {
+    "code": "3138104",
+    "name": "Lassance",
+    "state": "MG",
+    "lat": -17.886944,
+    "lon": -44.576667
+  },
+  {
+    "code": "3138203",
+    "name": "Lavras",
+    "state": "MG",
+    "lat": -21.2425512,
+    "lon": -44.9991978
+  },
+  {
+    "code": "3138302",
+    "name": "Leandro Ferreira",
+    "state": "MG",
+    "lat": -19.7169632,
+    "lon": -45.0245003
+  },
+  {
+    "code": "3138351",
+    "name": "Leme do Prado",
+    "state": "MG",
+    "lat": -17.0827986,
+    "lon": -42.6952729
+  },
+  {
+    "code": "3138401",
+    "name": "Leopoldina",
+    "state": "MG",
+    "lat": -21.5314282,
+    "lon": -42.6403534
+  },
+  {
+    "code": "3138500",
+    "name": "Liberdade",
+    "state": "MG",
+    "lat": -22.0263303,
+    "lon": -44.3197395
+  },
+  {
+    "code": "3138609",
+    "name": "Lima Duarte",
+    "state": "MG",
+    "lat": -21.842777,
+    "lon": -43.792777
+  },
+  {
+    "code": "3138625",
+    "name": "Limeira do Oeste",
+    "state": "MG",
+    "lat": -19.5521959,
+    "lon": -50.5772673
+  },
+  {
+    "code": "3138658",
+    "name": "Lontra",
+    "state": "MG",
+    "lat": -15.9034782,
+    "lon": -44.3030383
+  },
+  {
+    "code": "3138674",
+    "name": "Luisburgo",
+    "state": "MG",
+    "lat": -20.4394,
+    "lon": -42.1025
+  },
+  {
+    "code": "3138682",
+    "name": "Luislândia",
+    "state": "MG",
+    "lat": -16.1150169,
+    "lon": -44.5849349
+  },
+  {
+    "code": "3138708",
+    "name": "Luminárias",
+    "state": "MG",
+    "lat": -21.5112256,
+    "lon": -44.903813
+  },
+  {
+    "code": "3138807",
+    "name": "Luz",
+    "state": "MG",
+    "lat": -19.7903123,
+    "lon": -45.6818948
+  },
+  {
+    "code": "3138906",
+    "name": "Machacalis",
+    "state": "MG",
+    "lat": -17.0784105,
+    "lon": -40.7175983
+  },
+  {
+    "code": "3139003",
+    "name": "Machado",
+    "state": "MG",
+    "lat": -21.6762861,
+    "lon": -45.9211696
+  },
+  {
+    "code": "3139102",
+    "name": "Madre de Deus de Minas",
+    "state": "MG",
+    "lat": -21.482223,
+    "lon": -44.329723
+  },
+  {
+    "code": "3139201",
+    "name": "Malacacheta",
+    "state": "MG",
+    "lat": -17.8428204,
+    "lon": -42.0786194
+  },
+  {
+    "code": "3139250",
+    "name": "Mamonas",
+    "state": "MG",
+    "lat": -15.0477099,
+    "lon": -42.9499586
+  },
+  {
+    "code": "3139300",
+    "name": "Manga",
+    "state": "MG",
+    "lat": -14.7528035,
+    "lon": -43.9417044
+  },
+  {
+    "code": "3139409",
+    "name": "Manhuaçu",
+    "state": "MG",
+    "lat": -20.2574434,
+    "lon": -42.0340769
+  },
+  {
+    "code": "3139508",
+    "name": "Manhumirim",
+    "state": "MG",
+    "lat": -20.3599141,
+    "lon": -41.9554606
+  },
+  {
+    "code": "3139607",
+    "name": "Mantena",
+    "state": "MG",
+    "lat": -18.7809937,
+    "lon": -40.9808279
+  },
+  {
+    "code": "3139706",
+    "name": "Maravilhas",
+    "state": "MG",
+    "lat": -19.515278,
+    "lon": -44.676389
+  },
+  {
+    "code": "3139805",
+    "name": "Mar de Espanha",
+    "state": "MG",
+    "lat": -21.866945,
+    "lon": -43.01
+  },
+  {
+    "code": "3139904",
+    "name": "Maria da Fé",
+    "state": "MG",
+    "lat": -22.3081652,
+    "lon": -45.3752771
+  },
+  {
+    "code": "3140001",
+    "name": "Mariana",
+    "state": "MG",
+    "lat": -20.3781468,
+    "lon": -43.4174862
+  },
+  {
+    "code": "3140100",
+    "name": "Marilac",
+    "state": "MG",
+    "lat": -18.5075,
+    "lon": -42.080278
+  },
+  {
+    "code": "3140159",
+    "name": "Mário Campos",
+    "state": "MG",
+    "lat": -20.0511,
+    "lon": -44.1858
+  },
+  {
+    "code": "3140209",
+    "name": "Maripá de Minas",
+    "state": "MG",
+    "lat": -21.6975,
+    "lon": -42.959167
+  },
+  {
+    "code": "3140308",
+    "name": "Marliéria",
+    "state": "MG",
+    "lat": -19.711867,
+    "lon": -42.7343059
+  },
+  {
+    "code": "3140407",
+    "name": "Marmelópolis",
+    "state": "MG",
+    "lat": -22.448889,
+    "lon": -45.165278
+  },
+  {
+    "code": "3140506",
+    "name": "Martinho Campos",
+    "state": "MG",
+    "lat": -19.331945,
+    "lon": -45.236666
+  },
+  {
+    "code": "3140530",
+    "name": "Martins Soares",
+    "state": "MG",
+    "lat": -20.2574182,
+    "lon": -41.8771753
+  },
+  {
+    "code": "3140555",
+    "name": "Mata Verde",
+    "state": "MG",
+    "lat": -15.6874451,
+    "lon": -40.7391431
+  },
+  {
+    "code": "3140605",
+    "name": "Materlândia",
+    "state": "MG",
+    "lat": -18.473889,
+    "lon": -43.06
+  },
+  {
+    "code": "3140704",
+    "name": "Mateus Leme",
+    "state": "MG",
+    "lat": -19.986666,
+    "lon": -44.428056
+  },
+  {
+    "code": "3140803",
+    "name": "Matias Barbosa",
+    "state": "MG",
+    "lat": -21.8691643,
+    "lon": -43.3180624
+  },
+  {
+    "code": "3140852",
+    "name": "Matias Cardoso",
+    "state": "MG",
+    "lat": -14.8564322,
+    "lon": -43.9200639
+  },
+  {
+    "code": "3140902",
+    "name": "Matipó",
+    "state": "MG",
+    "lat": -20.2896695,
+    "lon": -42.3426599
+  },
+  {
+    "code": "3141009",
+    "name": "Mato Verde",
+    "state": "MG",
+    "lat": -15.3942731,
+    "lon": -42.8624286
+  },
+  {
+    "code": "3141108",
+    "name": "Matozinhos",
+    "state": "MG",
+    "lat": -19.5576547,
+    "lon": -44.0816035
+  },
+  {
+    "code": "3141207",
+    "name": "Matutina",
+    "state": "MG",
+    "lat": -19.221956,
+    "lon": -45.9701654
+  },
+  {
+    "code": "3141306",
+    "name": "Medeiros",
+    "state": "MG",
+    "lat": -19.9954552,
+    "lon": -46.2210801
+  },
+  {
+    "code": "3141405",
+    "name": "Medina",
+    "state": "MG",
+    "lat": -16.2270466,
+    "lon": -41.4763373
+  },
+  {
+    "code": "3141504",
+    "name": "Mendes Pimentel",
+    "state": "MG",
+    "lat": -18.6580044,
+    "lon": -41.4021612
+  },
+  {
+    "code": "3141603",
+    "name": "Mercês",
+    "state": "MG",
+    "lat": -21.1947265,
+    "lon": -43.3407272
+  },
+  {
+    "code": "3141702",
+    "name": "Mesquita",
+    "state": "MG",
+    "lat": -19.221027,
+    "lon": -42.6071142
+  },
+  {
+    "code": "3141801",
+    "name": "Minas Novas",
+    "state": "MG",
+    "lat": -17.2174817,
+    "lon": -42.5948698
+  },
+  {
+    "code": "3141900",
+    "name": "Minduri",
+    "state": "MG",
+    "lat": -21.6817218,
+    "lon": -44.6036995
+  },
+  {
+    "code": "3142007",
+    "name": "Mirabela",
+    "state": "MG",
+    "lat": -16.2547215,
+    "lon": -44.1639075
+  },
+  {
+    "code": "3142106",
+    "name": "Miradouro",
+    "state": "MG",
+    "lat": -20.8905837,
+    "lon": -42.3434785
+  },
+  {
+    "code": "3142205",
+    "name": "Miraí",
+    "state": "MG",
+    "lat": -21.1957417,
+    "lon": -42.6125153
+  },
+  {
+    "code": "3142254",
+    "name": "Miravânia",
+    "state": "MG",
+    "lat": -14.7492867,
+    "lon": -44.4108445
+  },
+  {
+    "code": "3142304",
+    "name": "Moeda",
+    "state": "MG",
+    "lat": -20.333056,
+    "lon": -44.0525
+  },
+  {
+    "code": "3142403",
+    "name": "Moema",
+    "state": "MG",
+    "lat": -19.8435409,
+    "lon": -45.4106241
+  },
+  {
+    "code": "3142502",
+    "name": "Monjolos",
+    "state": "MG",
+    "lat": -18.3242667,
+    "lon": -44.1187729
+  },
+  {
+    "code": "3142601",
+    "name": "Monsenhor Paulo",
+    "state": "MG",
+    "lat": -21.757778,
+    "lon": -45.541111
+  },
+  {
+    "code": "3142700",
+    "name": "Montalvânia",
+    "state": "MG",
+    "lat": -14.4230168,
+    "lon": -44.3701782
+  },
+  {
+    "code": "3142809",
+    "name": "Monte Alegre de Minas",
+    "state": "MG",
+    "lat": -18.870278,
+    "lon": -48.880556
+  },
+  {
+    "code": "3142908",
+    "name": "Monte Azul",
+    "state": "MG",
+    "lat": -15.1531999,
+    "lon": -42.8711742
+  },
+  {
+    "code": "3143005",
+    "name": "Monte Belo",
+    "state": "MG",
+    "lat": -21.3225052,
+    "lon": -46.3649768
+  },
+  {
+    "code": "3143104",
+    "name": "Monte Carmelo",
+    "state": "MG",
+    "lat": -18.7260939,
+    "lon": -47.4958859
+  },
+  {
+    "code": "3143153",
+    "name": "Monte Formoso",
+    "state": "MG",
+    "lat": -16.8669394,
+    "lon": -41.2543539
+  },
+  {
+    "code": "3143203",
+    "name": "Monte Santo de Minas",
+    "state": "MG",
+    "lat": -21.189722,
+    "lon": -46.98
+  },
+  {
+    "code": "3143302",
+    "name": "Montes Claros",
+    "state": "MG",
+    "lat": -16.7495727,
+    "lon": -43.8687268
+  },
+  {
+    "code": "3143401",
+    "name": "Monte Sião",
+    "state": "MG",
+    "lat": -22.432778,
+    "lon": -46.572778
+  },
+  {
+    "code": "3143450",
+    "name": "Montezuma",
+    "state": "MG",
+    "lat": -15.1720888,
+    "lon": -42.5013371
+  },
+  {
+    "code": "3143500",
+    "name": "Morada Nova de Minas",
+    "state": "MG",
+    "lat": -18.6024892,
+    "lon": -45.3513867
+  },
+  {
+    "code": "3143609",
+    "name": "Morro da Garça",
+    "state": "MG",
+    "lat": -18.5435188,
+    "lon": -44.6030199
+  },
+  {
+    "code": "3143708",
+    "name": "Morro do Pilar",
+    "state": "MG",
+    "lat": -19.216389,
+    "lon": -43.376667
+  },
+  {
+    "code": "3143807",
+    "name": "Munhoz",
+    "state": "MG",
+    "lat": -22.613056,
+    "lon": -46.360556
+  },
+  {
+    "code": "3143906",
+    "name": "Muriaé",
+    "state": "MG",
+    "lat": -21.1313485,
+    "lon": -42.3628918
+  },
+  {
+    "code": "3144003",
+    "name": "Mutum",
+    "state": "MG",
+    "lat": -19.817223,
+    "lon": -41.438333
+  },
+  {
+    "code": "3144102",
+    "name": "Muzambinho",
+    "state": "MG",
+    "lat": -21.3684325,
+    "lon": -46.522317
+  },
+  {
+    "code": "3144201",
+    "name": "Nacip Raydan",
+    "state": "MG",
+    "lat": -18.4575634,
+    "lon": -42.2496073
+  },
+  {
+    "code": "3144300",
+    "name": "Nanuque",
+    "state": "MG",
+    "lat": -17.8393915,
+    "lon": -40.3494631
+  },
+  {
+    "code": "3144359",
+    "name": "Naque",
+    "state": "MG",
+    "lat": -19.2271271,
+    "lon": -42.3280185
+  },
+  {
+    "code": "3144375",
+    "name": "Natalândia",
+    "state": "MG",
+    "lat": -16.5042,
+    "lon": -46.4933
+  },
+  {
+    "code": "3144409",
+    "name": "Natércia",
+    "state": "MG",
+    "lat": -22.12,
+    "lon": -45.511389
+  },
+  {
+    "code": "3144508",
+    "name": "Nazareno",
+    "state": "MG",
+    "lat": -21.2189807,
+    "lon": -44.6151354
+  },
+  {
+    "code": "3144607",
+    "name": "Nepomuceno",
+    "state": "MG",
+    "lat": -21.232744,
+    "lon": -45.2352276
+  },
+  {
+    "code": "3144656",
+    "name": "Ninheira",
+    "state": "MG",
+    "lat": -15.318813,
+    "lon": -41.7540325
+  },
+  {
+    "code": "3144672",
+    "name": "Nova Belém",
+    "state": "MG",
+    "lat": -18.4914334,
+    "lon": -41.1050052
+  },
+  {
+    "code": "3144706",
+    "name": "Nova Era",
+    "state": "MG",
+    "lat": -19.766111,
+    "lon": -43.036944
+  },
+  {
+    "code": "3144805",
+    "name": "Nova Lima",
+    "state": "MG",
+    "lat": -19.9854089,
+    "lon": -43.8470691
+  },
+  {
+    "code": "3144904",
+    "name": "Nova Módica",
+    "state": "MG",
+    "lat": -18.4392679,
+    "lon": -41.5006849
+  },
+  {
+    "code": "3145000",
+    "name": "Nova Ponte",
+    "state": "MG",
+    "lat": -19.1692213,
+    "lon": -47.6717642
+  },
+  {
+    "code": "3145059",
+    "name": "Nova Porteirinha",
+    "state": "MG",
+    "lat": -15.8030559,
+    "lon": -43.3011842
+  },
+  {
+    "code": "3145109",
+    "name": "Nova Resende",
+    "state": "MG",
+    "lat": -21.1263862,
+    "lon": -46.424537
+  },
+  {
+    "code": "3145208",
+    "name": "Nova Serrana",
+    "state": "MG",
+    "lat": -19.875834,
+    "lon": -44.984166
+  },
+  {
+    "code": "3145307",
+    "name": "Novo Cruzeiro",
+    "state": "MG",
+    "lat": -17.4674406,
+    "lon": -41.8767107
+  },
+  {
+    "code": "3145356",
+    "name": "Novo Oriente de Minas",
+    "state": "MG",
+    "lat": -17.4154318,
+    "lon": -41.2172113
+  },
+  {
+    "code": "3145372",
+    "name": "Novorizonte",
+    "state": "MG",
+    "lat": -16.0178,
+    "lon": -42.4072
+  },
+  {
+    "code": "3145406",
+    "name": "Olaria",
+    "state": "MG",
+    "lat": -21.8607194,
+    "lon": -43.9370942
+  },
+  {
+    "code": "3145455",
+    "name": "Olhos-d'Água",
+    "state": "MG",
+    "lat": -17.3988426,
+    "lon": -43.5715884
+  },
+  {
+    "code": "3145505",
+    "name": "Olímpio Noronha",
+    "state": "MG",
+    "lat": -22.067778,
+    "lon": -45.263889
+  },
+  {
+    "code": "3145604",
+    "name": "Oliveira",
+    "state": "MG",
+    "lat": -20.6971953,
+    "lon": -44.8273969
+  },
+  {
+    "code": "3145703",
+    "name": "Oliveira Fortes",
+    "state": "MG",
+    "lat": -21.3391156,
+    "lon": -43.4577139
+  },
+  {
+    "code": "3145802",
+    "name": "Onça de Pitangui",
+    "state": "MG",
+    "lat": -19.73,
+    "lon": -44.807222
+  },
+  {
+    "code": "3145851",
+    "name": "Oratórios",
+    "state": "MG",
+    "lat": -20.4303,
+    "lon": -42.8056
+  },
+  {
+    "code": "3145877",
+    "name": "Orizânia",
+    "state": "MG",
+    "lat": -20.5062049,
+    "lon": -42.2076114
+  },
+  {
+    "code": "3145901",
+    "name": "Ouro Branco",
+    "state": "MG",
+    "lat": -20.5222413,
+    "lon": -43.6917283
+  },
+  {
+    "code": "3146008",
+    "name": "Ouro Fino",
+    "state": "MG",
+    "lat": -22.283056,
+    "lon": -46.369167
+  },
+  {
+    "code": "3146107",
+    "name": "Ouro Preto",
+    "state": "MG",
+    "lat": -20.385527,
+    "lon": -43.5035214
+  },
+  {
+    "code": "3146206",
+    "name": "Ouro Verde de Minas",
+    "state": "MG",
+    "lat": -18.0695301,
+    "lon": -41.272395
+  },
+  {
+    "code": "3146255",
+    "name": "Padre Carvalho",
+    "state": "MG",
+    "lat": -16.3647,
+    "lon": -42.515
+  },
+  {
+    "code": "3146305",
+    "name": "Padre Paraíso",
+    "state": "MG",
+    "lat": -17.0750322,
+    "lon": -41.4850334
+  },
+  {
+    "code": "3146404",
+    "name": "Paineiras",
+    "state": "MG",
+    "lat": -18.904167,
+    "lon": -45.534722
+  },
+  {
+    "code": "3146503",
+    "name": "Pains",
+    "state": "MG",
+    "lat": -20.3672648,
+    "lon": -45.6633353
+  },
+  {
+    "code": "3146552",
+    "name": "Pai Pedro",
+    "state": "MG",
+    "lat": -15.5311251,
+    "lon": -43.0667102
+  },
+  {
+    "code": "3146602",
+    "name": "Paiva",
+    "state": "MG",
+    "lat": -21.289441,
+    "lon": -43.4175347
+  },
+  {
+    "code": "3146701",
+    "name": "Palma",
+    "state": "MG",
+    "lat": -21.3753167,
+    "lon": -42.3175405
+  },
+  {
+    "code": "3146750",
+    "name": "Palmópolis",
+    "state": "MG",
+    "lat": -16.7356469,
+    "lon": -40.4205565
+  },
+  {
+    "code": "3146909",
+    "name": "Papagaios",
+    "state": "MG",
+    "lat": -19.4487775,
+    "lon": -44.7478694
+  },
+  {
+    "code": "3147006",
+    "name": "Paracatu",
+    "state": "MG",
+    "lat": -17.2174056,
+    "lon": -46.8707514
+  },
+  {
+    "code": "3147105",
+    "name": "Pará de Minas",
+    "state": "MG",
+    "lat": -19.8668656,
+    "lon": -44.5912664
+  },
+  {
+    "code": "3147204",
+    "name": "Paraguaçu",
+    "state": "MG",
+    "lat": -21.547222,
+    "lon": -45.7375
+  },
+  {
+    "code": "3147303",
+    "name": "Paraisópolis",
+    "state": "MG",
+    "lat": -22.5541683,
+    "lon": -45.7800024
+  },
+  {
+    "code": "3147402",
+    "name": "Paraopeba",
+    "state": "MG",
+    "lat": -19.2756823,
+    "lon": -44.4034123
+  },
+  {
+    "code": "3147501",
+    "name": "Passabém",
+    "state": "MG",
+    "lat": -19.3521707,
+    "lon": -43.1374619
+  },
+  {
+    "code": "3147600",
+    "name": "Passa Quatro",
+    "state": "MG",
+    "lat": -22.3893803,
+    "lon": -44.9666039
+  },
+  {
+    "code": "3147709",
+    "name": "Passa Tempo",
+    "state": "MG",
+    "lat": -20.650556,
+    "lon": -44.495833
+  },
+  {
+    "code": "3147808",
+    "name": "Passa Vinte",
+    "state": "MG",
+    "lat": -22.209722,
+    "lon": -44.2344386
+  },
+  {
+    "code": "3147907",
+    "name": "Passos",
+    "state": "MG",
+    "lat": -20.7167803,
+    "lon": -46.6156864
+  },
+  {
+    "code": "3147956",
+    "name": "Patis",
+    "state": "MG",
+    "lat": -16.0806266,
+    "lon": -44.0805727
+  },
+  {
+    "code": "3148004",
+    "name": "Patos de Minas",
+    "state": "MG",
+    "lat": -18.6041453,
+    "lon": -46.5096698
+  },
+  {
+    "code": "3148103",
+    "name": "Patrocínio",
+    "state": "MG",
+    "lat": -18.9408294,
+    "lon": -46.9926624
+  },
+  {
+    "code": "3148202",
+    "name": "Patrocínio do Muriaé",
+    "state": "MG",
+    "lat": -21.153333,
+    "lon": -42.214444
+  },
+  {
+    "code": "3148301",
+    "name": "Paula Cândido",
+    "state": "MG",
+    "lat": -20.8737735,
+    "lon": -42.9862733
+  },
+  {
+    "code": "3148400",
+    "name": "Paulistas",
+    "state": "MG",
+    "lat": -18.4268235,
+    "lon": -42.8689535
+  },
+  {
+    "code": "3148509",
+    "name": "Pavão",
+    "state": "MG",
+    "lat": -17.430699,
+    "lon": -40.9991361
+  },
+  {
+    "code": "3148608",
+    "name": "Peçanha",
+    "state": "MG",
+    "lat": -18.5479498,
+    "lon": -42.5590434
+  },
+  {
+    "code": "3148707",
+    "name": "Pedra Azul",
+    "state": "MG",
+    "lat": -16.0058567,
+    "lon": -41.2793731
+  },
+  {
+    "code": "3148756",
+    "name": "Pedra Bonita",
+    "state": "MG",
+    "lat": -20.520375,
+    "lon": -42.3296975
+  },
+  {
+    "code": "3148806",
+    "name": "Pedra do Anta",
+    "state": "MG",
+    "lat": -20.5962822,
+    "lon": -42.7179792
+  },
+  {
+    "code": "3148905",
+    "name": "Pedra do Indaiá",
+    "state": "MG",
+    "lat": -20.258333,
+    "lon": -45.208611
+  },
+  {
+    "code": "3149002",
+    "name": "Pedra Dourada",
+    "state": "MG",
+    "lat": -20.8317801,
+    "lon": -42.1554636
+  },
+  {
+    "code": "3149101",
+    "name": "Pedralva",
+    "state": "MG",
+    "lat": -22.2430204,
+    "lon": -45.4659326
+  },
+  {
+    "code": "3149150",
+    "name": "Pedras de Maria da Cruz",
+    "state": "MG",
+    "lat": -15.605833,
+    "lon": -44.391944
+  },
+  {
+    "code": "3149200",
+    "name": "Pedrinópolis",
+    "state": "MG",
+    "lat": -19.2275,
+    "lon": -47.461944
+  },
+  {
+    "code": "3149309",
+    "name": "Pedro Leopoldo",
+    "state": "MG",
+    "lat": -19.617778,
+    "lon": -44.043055
+  },
+  {
+    "code": "3149408",
+    "name": "Pedro Teixeira",
+    "state": "MG",
+    "lat": -21.7056637,
+    "lon": -43.7492357
+  },
+  {
+    "code": "3149507",
+    "name": "Pequeri",
+    "state": "MG",
+    "lat": -21.8369971,
+    "lon": -43.1207799
+  },
+  {
+    "code": "3149606",
+    "name": "Pequi",
+    "state": "MG",
+    "lat": -19.6315163,
+    "lon": -44.6597262
+  },
+  {
+    "code": "3149705",
+    "name": "Perdigão",
+    "state": "MG",
+    "lat": -19.953056,
+    "lon": -45.084166
+  },
+  {
+    "code": "3149804",
+    "name": "Perdizes",
+    "state": "MG",
+    "lat": -19.3503361,
+    "lon": -47.2938235
+  },
+  {
+    "code": "3149903",
+    "name": "Perdões",
+    "state": "MG",
+    "lat": -21.0919737,
+    "lon": -45.0903543
+  },
+  {
+    "code": "3149952",
+    "name": "Periquito",
+    "state": "MG",
+    "lat": -19.1559319,
+    "lon": -42.2412259
+  },
+  {
+    "code": "3150000",
+    "name": "Pescador",
+    "state": "MG",
+    "lat": -18.3563609,
+    "lon": -41.5981451
+  },
+  {
+    "code": "3150109",
+    "name": "Piau",
+    "state": "MG",
+    "lat": -21.5074738,
+    "lon": -43.320587
+  },
+  {
+    "code": "3150158",
+    "name": "Piedade de Caratinga",
+    "state": "MG",
+    "lat": -19.7601211,
+    "lon": -42.0767321
+  },
+  {
+    "code": "3150208",
+    "name": "Piedade de Ponte Nova",
+    "state": "MG",
+    "lat": -20.245333,
+    "lon": -42.7343783
+  },
+  {
+    "code": "3150307",
+    "name": "Piedade do Rio Grande",
+    "state": "MG",
+    "lat": -21.4679371,
+    "lon": -44.1939394
+  },
+  {
+    "code": "3150406",
+    "name": "Piedade dos Gerais",
+    "state": "MG",
+    "lat": -20.471111,
+    "lon": -44.226945
+  },
+  {
+    "code": "3150505",
+    "name": "Pimenta",
+    "state": "MG",
+    "lat": -20.4827995,
+    "lon": -45.7985894
+  },
+  {
+    "code": "3150539",
+    "name": "Pingo-d'Água",
+    "state": "MG",
+    "lat": -19.7284768,
+    "lon": -42.4098217
+  },
+  {
+    "code": "3150570",
+    "name": "Pintópolis",
+    "state": "MG",
+    "lat": -16.0572809,
+    "lon": -45.1466972
+  },
+  {
+    "code": "3150604",
+    "name": "Piracema",
+    "state": "MG",
+    "lat": -20.5091579,
+    "lon": -44.4754464
+  },
+  {
+    "code": "3150703",
+    "name": "Pirajuba",
+    "state": "MG",
+    "lat": -19.9090891,
+    "lon": -48.701683
+  },
+  {
+    "code": "3150802",
+    "name": "Piranga",
+    "state": "MG",
+    "lat": -20.685,
+    "lon": -43.3
+  },
+  {
+    "code": "3150901",
+    "name": "Piranguçu",
+    "state": "MG",
+    "lat": -22.5280226,
+    "lon": -45.4961066
+  },
+  {
+    "code": "3151008",
+    "name": "Piranguinho",
+    "state": "MG",
+    "lat": -22.4029372,
+    "lon": -45.5338952
+  },
+  {
+    "code": "3151107",
+    "name": "Pirapetinga",
+    "state": "MG",
+    "lat": -21.656903,
+    "lon": -42.345955
+  },
+  {
+    "code": "3151206",
+    "name": "Pirapora",
+    "state": "MG",
+    "lat": -17.3493765,
+    "lon": -44.9507904
+  },
+  {
+    "code": "3151305",
+    "name": "Piraúba",
+    "state": "MG",
+    "lat": -21.276945,
+    "lon": -43.025834
+  },
+  {
+    "code": "3151404",
+    "name": "Pitangui",
+    "state": "MG",
+    "lat": -19.682223,
+    "lon": -44.890555
+  },
+  {
+    "code": "3151503",
+    "name": "Piumhi",
+    "state": "MG",
+    "lat": -20.4675258,
+    "lon": -45.9576125
+  },
+  {
+    "code": "3151602",
+    "name": "Planura",
+    "state": "MG",
+    "lat": -20.1368583,
+    "lon": -48.7066819
+  },
+  {
+    "code": "3151701",
+    "name": "Poço Fundo",
+    "state": "MG",
+    "lat": -21.780834,
+    "lon": -45.965
+  },
+  {
+    "code": "3151800",
+    "name": "Poços de Caldas",
+    "state": "MG",
+    "lat": -21.7900318,
+    "lon": -46.5647928
+  },
+  {
+    "code": "3151909",
+    "name": "Pocrane",
+    "state": "MG",
+    "lat": -19.6201477,
+    "lon": -41.6365906
+  },
+  {
+    "code": "3152006",
+    "name": "Pompéu",
+    "state": "MG",
+    "lat": -19.218611,
+    "lon": -45.002778
+  },
+  {
+    "code": "3152105",
+    "name": "Ponte Nova",
+    "state": "MG",
+    "lat": -20.4164353,
+    "lon": -42.90878
+  },
+  {
+    "code": "3152131",
+    "name": "Ponto Chique",
+    "state": "MG",
+    "lat": -16.6328913,
+    "lon": -45.0637456
+  },
+  {
+    "code": "3152170",
+    "name": "Ponto dos Volantes",
+    "state": "MG",
+    "lat": -16.7532049,
+    "lon": -41.5044548
+  },
+  {
+    "code": "3152204",
+    "name": "Porteirinha",
+    "state": "MG",
+    "lat": -15.7420889,
+    "lon": -43.0286046
+  },
+  {
+    "code": "3152303",
+    "name": "Porto Firme",
+    "state": "MG",
+    "lat": -20.672778,
+    "lon": -43.084444
+  },
+  {
+    "code": "3152402",
+    "name": "Poté",
+    "state": "MG",
+    "lat": -17.8074949,
+    "lon": -41.7892455
+  },
+  {
+    "code": "3152501",
+    "name": "Pouso Alegre",
+    "state": "MG",
+    "lat": -22.2343858,
+    "lon": -45.9327241
+  },
+  {
+    "code": "3152600",
+    "name": "Pouso Alto",
+    "state": "MG",
+    "lat": -22.193889,
+    "lon": -44.972778
+  },
+  {
+    "code": "3152709",
+    "name": "Prados",
+    "state": "MG",
+    "lat": -21.0572943,
+    "lon": -44.0788784
+  },
+  {
+    "code": "3152808",
+    "name": "Prata",
+    "state": "MG",
+    "lat": -19.307222,
+    "lon": -48.923889
+  },
+  {
+    "code": "3152907",
+    "name": "Pratápolis",
+    "state": "MG",
+    "lat": -20.7444262,
+    "lon": -46.8607973
+  },
+  {
+    "code": "3153004",
+    "name": "Pratinha",
+    "state": "MG",
+    "lat": -19.7530422,
+    "lon": -46.3824103
+  },
+  {
+    "code": "3153103",
+    "name": "Presidente Bernardes",
+    "state": "MG",
+    "lat": -20.7685467,
+    "lon": -43.1877237
+  },
+  {
+    "code": "3153202",
+    "name": "Presidente Juscelino",
+    "state": "MG",
+    "lat": -18.6388028,
+    "lon": -44.0604419
+  },
+  {
+    "code": "3153301",
+    "name": "Presidente Kubitschek",
+    "state": "MG",
+    "lat": -18.614167,
+    "lon": -43.561667
+  },
+  {
+    "code": "3153400",
+    "name": "Presidente Olegário",
+    "state": "MG",
+    "lat": -18.415,
+    "lon": -46.419723
+  },
+  {
+    "code": "3153509",
+    "name": "Alto Jequitibá",
+    "state": "MG",
+    "lat": -20.4236673,
+    "lon": -41.9660938
+  },
+  {
+    "code": "3153608",
+    "name": "Prudente de Morais",
+    "state": "MG",
+    "lat": -19.4825,
+    "lon": -44.155556
+  },
+  {
+    "code": "3153707",
+    "name": "Quartel Geral",
+    "state": "MG",
+    "lat": -19.2730674,
+    "lon": -45.5570007
+  },
+  {
+    "code": "3153806",
+    "name": "Queluzito",
+    "state": "MG",
+    "lat": -20.7400782,
+    "lon": -43.8847712
+  },
+  {
+    "code": "3153905",
+    "name": "Raposos",
+    "state": "MG",
+    "lat": -19.967223,
+    "lon": -43.804167
+  },
+  {
+    "code": "3154002",
+    "name": "Raul Soares",
+    "state": "MG",
+    "lat": -20.102222,
+    "lon": -42.451944
+  },
+  {
+    "code": "3154101",
+    "name": "Recreio",
+    "state": "MG",
+    "lat": -21.5248205,
+    "lon": -42.4689256
+  },
+  {
+    "code": "3154150",
+    "name": "Reduto",
+    "state": "MG",
+    "lat": -20.2442531,
+    "lon": -41.9839974
+  },
+  {
+    "code": "3154200",
+    "name": "Resende Costa",
+    "state": "MG",
+    "lat": -20.921945,
+    "lon": -44.237777
+  },
+  {
+    "code": "3154309",
+    "name": "Resplendor",
+    "state": "MG",
+    "lat": -19.3254413,
+    "lon": -41.2554622
+  },
+  {
+    "code": "3154408",
+    "name": "Ressaquinha",
+    "state": "MG",
+    "lat": -21.063056,
+    "lon": -43.762778
+  },
+  {
+    "code": "3154457",
+    "name": "Riachinho",
+    "state": "MG",
+    "lat": -16.2212448,
+    "lon": -45.9997305
+  },
+  {
+    "code": "3154507",
+    "name": "Riacho dos Machados",
+    "state": "MG",
+    "lat": -16.006667,
+    "lon": -43.049166
+  },
+  {
+    "code": "3154606",
+    "name": "Ribeirão das Neves",
+    "state": "MG",
+    "lat": -19.7672898,
+    "lon": -44.0875436
+  },
+  {
+    "code": "3154705",
+    "name": "Ribeirão Vermelho",
+    "state": "MG",
+    "lat": -21.1881942,
+    "lon": -45.0627632
+  },
+  {
+    "code": "3154804",
+    "name": "Rio Acima",
+    "state": "MG",
+    "lat": -20.0875,
+    "lon": -43.789166
+  },
+  {
+    "code": "3154903",
+    "name": "Rio Casca",
+    "state": "MG",
+    "lat": -20.2259718,
+    "lon": -42.651548
+  },
+  {
+    "code": "3155009",
+    "name": "Rio Doce",
+    "state": "MG",
+    "lat": -20.2447972,
+    "lon": -42.8970432
+  },
+  {
+    "code": "3155108",
+    "name": "Rio do Prado",
+    "state": "MG",
+    "lat": -16.6841115,
+    "lon": -40.5581807
+  },
+  {
+    "code": "3155207",
+    "name": "Rio Espera",
+    "state": "MG",
+    "lat": -20.8571756,
+    "lon": -43.4729342
+  },
+  {
+    "code": "3155306",
+    "name": "Rio Manso",
+    "state": "MG",
+    "lat": -20.265079,
+    "lon": -44.3090284
+  },
+  {
+    "code": "3155405",
+    "name": "Rio Novo",
+    "state": "MG",
+    "lat": -21.4753189,
+    "lon": -43.1250813
+  },
+  {
+    "code": "3155504",
+    "name": "Rio Paranaíba",
+    "state": "MG",
+    "lat": -19.1965275,
+    "lon": -46.2411395
+  },
+  {
+    "code": "3155603",
+    "name": "Rio Pardo de Minas",
+    "state": "MG",
+    "lat": -15.6106289,
+    "lon": -42.5387444
+  },
+  {
+    "code": "3155702",
+    "name": "Rio Piracicaba",
+    "state": "MG",
+    "lat": -19.537329,
+    "lon": -42.5953153
+  },
+  {
+    "code": "3155801",
+    "name": "Rio Pomba",
+    "state": "MG",
+    "lat": -21.275,
+    "lon": -43.178889
+  },
+  {
+    "code": "3155900",
+    "name": "Rio Preto",
+    "state": "MG",
+    "lat": -22.089444,
+    "lon": -43.8275
+  },
+  {
+    "code": "3156007",
+    "name": "Rio Vermelho",
+    "state": "MG",
+    "lat": -18.2932731,
+    "lon": -43.008406
+  },
+  {
+    "code": "3156106",
+    "name": "Ritápolis",
+    "state": "MG",
+    "lat": -21.0250052,
+    "lon": -44.3186566
+  },
+  {
+    "code": "3156205",
+    "name": "Rochedo de Minas",
+    "state": "MG",
+    "lat": -21.6295358,
+    "lon": -43.0195125
+  },
+  {
+    "code": "3156304",
+    "name": "Rodeiro",
+    "state": "MG",
+    "lat": -21.200278,
+    "lon": -42.865
+  },
+  {
+    "code": "3156403",
+    "name": "Romaria",
+    "state": "MG",
+    "lat": -18.8823522,
+    "lon": -47.5854354
+  },
+  {
+    "code": "3156452",
+    "name": "Rosário da Limeira",
+    "state": "MG",
+    "lat": -20.9793178,
+    "lon": -42.5107009
+  },
+  {
+    "code": "3156502",
+    "name": "Rubelita",
+    "state": "MG",
+    "lat": -16.4067495,
+    "lon": -42.2623615
+  },
+  {
+    "code": "3156601",
+    "name": "Rubim",
+    "state": "MG",
+    "lat": -16.3751157,
+    "lon": -40.5380871
+  },
+  {
+    "code": "3156700",
+    "name": "Sabará",
+    "state": "MG",
+    "lat": -19.8900372,
+    "lon": -43.8107916
+  },
+  {
+    "code": "3156809",
+    "name": "Sabinópolis",
+    "state": "MG",
+    "lat": -18.6656839,
+    "lon": -43.0830439
+  },
+  {
+    "code": "3156908",
+    "name": "Sacramento",
+    "state": "MG",
+    "lat": -19.8652854,
+    "lon": -47.4402746
+  },
+  {
+    "code": "3157005",
+    "name": "Salinas",
+    "state": "MG",
+    "lat": -16.1699073,
+    "lon": -42.2910368
+  },
+  {
+    "code": "3157104",
+    "name": "Salto da Divisa",
+    "state": "MG",
+    "lat": -15.9962117,
+    "lon": -39.9504365
+  },
+  {
+    "code": "3157203",
+    "name": "Santa Bárbara",
+    "state": "MG",
+    "lat": -19.959444,
+    "lon": -43.415278
+  },
+  {
+    "code": "3157252",
+    "name": "Santa Bárbara do Leste",
+    "state": "MG",
+    "lat": -19.978334,
+    "lon": -42.140555
+  },
+  {
+    "code": "3157278",
+    "name": "Santa Bárbara do Monte Verde",
+    "state": "MG",
+    "lat": -21.9578146,
+    "lon": -43.7024953
+  },
+  {
+    "code": "3157302",
+    "name": "Santa Bárbara do Tugúrio",
+    "state": "MG",
+    "lat": -21.245833,
+    "lon": -43.559444
+  },
+  {
+    "code": "3157336",
+    "name": "Santa Cruz de Minas",
+    "state": "MG",
+    "lat": -21.1205363,
+    "lon": -44.227261
+  },
+  {
+    "code": "3157377",
+    "name": "Santa Cruz de Salinas",
+    "state": "MG",
+    "lat": -16.0978925,
+    "lon": -41.7483049
+  },
+  {
+    "code": "3157401",
+    "name": "Santa Cruz do Escalvado",
+    "state": "MG",
+    "lat": -20.2355745,
+    "lon": -42.8142315
+  },
+  {
+    "code": "3157500",
+    "name": "Santa Efigênia de Minas",
+    "state": "MG",
+    "lat": -18.8271809,
+    "lon": -42.4396055
+  },
+  {
+    "code": "3157609",
+    "name": "Santa Fé de Minas",
+    "state": "MG",
+    "lat": -16.689174,
+    "lon": -45.4139828
+  },
+  {
+    "code": "3157658",
+    "name": "Santa Helena de Minas",
+    "state": "MG",
+    "lat": -16.9376858,
+    "lon": -40.6854023
+  },
+  {
+    "code": "3157708",
+    "name": "Santa Juliana",
+    "state": "MG",
+    "lat": -19.308611,
+    "lon": -47.525
+  },
+  {
+    "code": "3157807",
+    "name": "Santa Luzia",
+    "state": "MG",
+    "lat": -19.7702097,
+    "lon": -43.8505291
+  },
+  {
+    "code": "3157906",
+    "name": "Santa Margarida",
+    "state": "MG",
+    "lat": -20.3817696,
+    "lon": -42.2522123
+  },
+  {
+    "code": "3158003",
+    "name": "Santa Maria de Itabira",
+    "state": "MG",
+    "lat": -19.4483453,
+    "lon": -43.1167817
+  },
+  {
+    "code": "3158102",
+    "name": "Santa Maria do Salto",
+    "state": "MG",
+    "lat": -16.2490112,
+    "lon": -40.1484503
+  },
+  {
+    "code": "3158201",
+    "name": "Santa Maria do Suaçuí",
+    "state": "MG",
+    "lat": -18.1894783,
+    "lon": -42.4188445
+  },
+  {
+    "code": "3158300",
+    "name": "Santana da Vargem",
+    "state": "MG",
+    "lat": -21.2491719,
+    "lon": -45.5068185
+  },
+  {
+    "code": "3158409",
+    "name": "Santana de Cataguases",
+    "state": "MG",
+    "lat": -21.2871462,
+    "lon": -42.5569749
+  },
+  {
+    "code": "3158508",
+    "name": "Santana de Pirapama",
+    "state": "MG",
+    "lat": -19.0075,
+    "lon": -44.040833
+  },
+  {
+    "code": "3158607",
+    "name": "Santana do Deserto",
+    "state": "MG",
+    "lat": -21.95,
+    "lon": -43.166667
+  },
+  {
+    "code": "3158706",
+    "name": "Santana do Garambéu",
+    "state": "MG",
+    "lat": -21.601389,
+    "lon": -44.104167
+  },
+  {
+    "code": "3158805",
+    "name": "Santana do Jacaré",
+    "state": "MG",
+    "lat": -20.9023708,
+    "lon": -45.1274193
+  },
+  {
+    "code": "3158904",
+    "name": "Santana do Manhuaçu",
+    "state": "MG",
+    "lat": -20.1075,
+    "lon": -41.925556
+  },
+  {
+    "code": "3158953",
+    "name": "Santana do Paraíso",
+    "state": "MG",
+    "lat": -19.3652914,
+    "lon": -42.5494833
+  },
+  {
+    "code": "3159001",
+    "name": "Santana do Riacho",
+    "state": "MG",
+    "lat": -19.168611,
+    "lon": -43.714444
+  },
+  {
+    "code": "3159100",
+    "name": "Santana dos Montes",
+    "state": "MG",
+    "lat": -20.7875735,
+    "lon": -43.6910376
+  },
+  {
+    "code": "3159209",
+    "name": "Santa Rita de Caldas",
+    "state": "MG",
+    "lat": -22.028889,
+    "lon": -46.336944
+  },
+  {
+    "code": "3159308",
+    "name": "Santa Rita de Jacutinga",
+    "state": "MG",
+    "lat": -22.149166,
+    "lon": -44.094444
+  },
+  {
+    "code": "3159357",
+    "name": "Santa Rita de Minas",
+    "state": "MG",
+    "lat": -19.8745404,
+    "lon": -42.1325122
+  },
+  {
+    "code": "3159407",
+    "name": "Santa Rita de Ibitipoca",
+    "state": "MG",
+    "lat": -21.5625,
+    "lon": -43.914722
+  },
+  {
+    "code": "3159506",
+    "name": "Santa Rita do Itueto",
+    "state": "MG",
+    "lat": -19.3576722,
+    "lon": -41.3801488
+  },
+  {
+    "code": "3159605",
+    "name": "Santa Rita do Sapucaí",
+    "state": "MG",
+    "lat": -22.2486968,
+    "lon": -45.7064507
+  },
+  {
+    "code": "3159704",
+    "name": "Santa Rosa da Serra",
+    "state": "MG",
+    "lat": -19.5271986,
+    "lon": -45.9659869
+  },
+  {
+    "code": "3159803",
+    "name": "Santa Vitória",
+    "state": "MG",
+    "lat": -18.8465718,
+    "lon": -50.1292823
+  },
+  {
+    "code": "3159902",
+    "name": "Santo Antônio do Amparo",
+    "state": "MG",
+    "lat": -20.9413389,
+    "lon": -44.9187397
+  },
+  {
+    "code": "3160009",
+    "name": "Santo Antônio do Aventureiro",
+    "state": "MG",
+    "lat": -21.7579052,
+    "lon": -42.815566
+  },
+  {
+    "code": "3160108",
+    "name": "Santo Antônio do Grama",
+    "state": "MG",
+    "lat": -20.314444,
+    "lon": -42.608611
+  },
+  {
+    "code": "3160207",
+    "name": "Santo Antônio do Itambé",
+    "state": "MG",
+    "lat": -18.4654706,
+    "lon": -43.3058343
+  },
+  {
+    "code": "3160306",
+    "name": "Santo Antônio do Jacinto",
+    "state": "MG",
+    "lat": -16.533066,
+    "lon": -40.1752483
+  },
+  {
+    "code": "3160405",
+    "name": "Santo Antônio do Monte",
+    "state": "MG",
+    "lat": -20.086944,
+    "lon": -45.290555
+  },
+  {
+    "code": "3160454",
+    "name": "Santo Antônio do Retiro",
+    "state": "MG",
+    "lat": -15.3423872,
+    "lon": -42.6234885
+  },
+  {
+    "code": "3160504",
+    "name": "Santo Antônio do Rio Abaixo",
+    "state": "MG",
+    "lat": -19.2280364,
+    "lon": -43.2532149
+  },
+  {
+    "code": "3160603",
+    "name": "Santo Hipólito",
+    "state": "MG",
+    "lat": -18.2965683,
+    "lon": -44.2214292
+  },
+  {
+    "code": "3160702",
+    "name": "Santos Dumont",
+    "state": "MG",
+    "lat": -21.455867,
+    "lon": -43.5522107
+  },
+  {
+    "code": "3160801",
+    "name": "São Bento Abade",
+    "state": "MG",
+    "lat": -21.5816076,
+    "lon": -45.0759227
+  },
+  {
+    "code": "3160900",
+    "name": "São Brás do Suaçuí",
+    "state": "MG",
+    "lat": -20.625,
+    "lon": -43.948889
+  },
+  {
+    "code": "3160959",
+    "name": "São Domingos das Dores",
+    "state": "MG",
+    "lat": -19.5281943,
+    "lon": -42.0132239
+  },
+  {
+    "code": "3161007",
+    "name": "São Domingos do Prata",
+    "state": "MG",
+    "lat": -19.8671078,
+    "lon": -42.9658318
+  },
+  {
+    "code": "3161056",
+    "name": "São Félix de Minas",
+    "state": "MG",
+    "lat": -18.5907117,
+    "lon": -41.4873737
+  },
+  {
+    "code": "3161106",
+    "name": "São Francisco",
+    "state": "MG",
+    "lat": -15.948889,
+    "lon": -44.864444
+  },
+  {
+    "code": "3161205",
+    "name": "São Francisco de Paula",
+    "state": "MG",
+    "lat": -20.7098288,
+    "lon": -44.9817485
+  },
+  {
+    "code": "3161304",
+    "name": "São Francisco de Sales",
+    "state": "MG",
+    "lat": -19.863056,
+    "lon": -49.773889
+  },
+  {
+    "code": "3161403",
+    "name": "São Francisco do Glória",
+    "state": "MG",
+    "lat": -20.7898292,
+    "lon": -42.2676959
+  },
+  {
+    "code": "3161502",
+    "name": "São Geraldo",
+    "state": "MG",
+    "lat": -20.9221894,
+    "lon": -42.8343489
+  },
+  {
+    "code": "3161601",
+    "name": "São Geraldo da Piedade",
+    "state": "MG",
+    "lat": -18.8449508,
+    "lon": -42.2886336
+  },
+  {
+    "code": "3161650",
+    "name": "São Geraldo do Baixio",
+    "state": "MG",
+    "lat": -18.9172142,
+    "lon": -41.3598026
+  },
+  {
+    "code": "3161700",
+    "name": "São Gonçalo do Abaeté",
+    "state": "MG",
+    "lat": -18.3420302,
+    "lon": -45.834112
+  },
+  {
+    "code": "3161809",
+    "name": "São Gonçalo do Pará",
+    "state": "MG",
+    "lat": -19.982778,
+    "lon": -44.859167
+  },
+  {
+    "code": "3161908",
+    "name": "São Gonçalo do Rio Abaixo",
+    "state": "MG",
+    "lat": -19.8252042,
+    "lon": -43.362126
+  },
+  {
+    "code": "3162005",
+    "name": "São Gonçalo do Sapucaí",
+    "state": "MG",
+    "lat": -21.8905238,
+    "lon": -45.5935943
+  },
+  {
+    "code": "3162104",
+    "name": "São Gotardo",
+    "state": "MG",
+    "lat": -19.3168844,
+    "lon": -46.0476596
+  },
+  {
+    "code": "3162203",
+    "name": "São João Batista do Glória",
+    "state": "MG",
+    "lat": -20.6413912,
+    "lon": -46.5052866
+  },
+  {
+    "code": "3162252",
+    "name": "São João da Lagoa",
+    "state": "MG",
+    "lat": -16.851502,
+    "lon": -44.3460615
+  },
+  {
+    "code": "3162302",
+    "name": "São João da Mata",
+    "state": "MG",
+    "lat": -21.9311736,
+    "lon": -45.9287155
+  },
+  {
+    "code": "3162401",
+    "name": "São João da Ponte",
+    "state": "MG",
+    "lat": -15.9283299,
+    "lon": -44.0078035
+  },
+  {
+    "code": "3162450",
+    "name": "São João das Missões",
+    "state": "MG",
+    "lat": -14.8808771,
+    "lon": -44.0829518
+  },
+  {
+    "code": "3162500",
+    "name": "São João del Rei",
+    "state": "MG",
+    "lat": -21.1335755,
+    "lon": -44.2588086
+  },
+  {
+    "code": "3162559",
+    "name": "São João do Manhuaçu",
+    "state": "MG",
+    "lat": -20.3941216,
+    "lon": -42.151281
+  },
+  {
+    "code": "3162575",
+    "name": "São João do Manteninha",
+    "state": "MG",
+    "lat": -18.7229295,
+    "lon": -41.1615277
+  },
+  {
+    "code": "3162609",
+    "name": "São João do Oriente",
+    "state": "MG",
+    "lat": -19.3408771,
+    "lon": -42.1550791
+  },
+  {
+    "code": "3162658",
+    "name": "São João do Pacuí",
+    "state": "MG",
+    "lat": -16.5374481,
+    "lon": -44.5309375
+  },
+  {
+    "code": "3162708",
+    "name": "São João do Paraíso",
+    "state": "MG",
+    "lat": -15.3145008,
+    "lon": -42.0150929
+  },
+  {
+    "code": "3162807",
+    "name": "São João Evangelista",
+    "state": "MG",
+    "lat": -18.548023,
+    "lon": -42.7652888
+  },
+  {
+    "code": "3162906",
+    "name": "São João Nepomuceno",
+    "state": "MG",
+    "lat": -21.5359158,
+    "lon": -43.0151428
+  },
+  {
+    "code": "3162922",
+    "name": "São Joaquim de Bicas",
+    "state": "MG",
+    "lat": -20.0489052,
+    "lon": -44.2731691
+  },
+  {
+    "code": "3162948",
+    "name": "São José da Barra",
+    "state": "MG",
+    "lat": -20.7180697,
+    "lon": -46.3125073
+  },
+  {
+    "code": "3162955",
+    "name": "São José da Lapa",
+    "state": "MG",
+    "lat": -19.6988548,
+    "lon": -43.9583194
+  },
+  {
+    "code": "3163003",
+    "name": "São José da Safira",
+    "state": "MG",
+    "lat": -18.324167,
+    "lon": -42.143333
+  },
+  {
+    "code": "3163102",
+    "name": "São José da Varginha",
+    "state": "MG",
+    "lat": -19.7087286,
+    "lon": -44.5577812
+  },
+  {
+    "code": "3163201",
+    "name": "São José do Alegre",
+    "state": "MG",
+    "lat": -22.330449,
+    "lon": -45.5284585
+  },
+  {
+    "code": "3163300",
+    "name": "São José do Divino",
+    "state": "MG",
+    "lat": -18.479798,
+    "lon": -41.3893208
+  },
+  {
+    "code": "3163409",
+    "name": "São José do Goiabal",
+    "state": "MG",
+    "lat": -19.925098,
+    "lon": -42.7083162
+  },
+  {
+    "code": "3163508",
+    "name": "São José do Jacuri",
+    "state": "MG",
+    "lat": -18.2773091,
+    "lon": -42.6714372
+  },
+  {
+    "code": "3163607",
+    "name": "São José do Mantimento",
+    "state": "MG",
+    "lat": -20.003958,
+    "lon": -41.7458061
+  },
+  {
+    "code": "3163706",
+    "name": "São Lourenço",
+    "state": "MG",
+    "lat": -22.116389,
+    "lon": -45.054167
+  },
+  {
+    "code": "3163805",
+    "name": "São Miguel do Anta",
+    "state": "MG",
+    "lat": -20.7065375,
+    "lon": -42.7195395
+  },
+  {
+    "code": "3163904",
+    "name": "São Pedro da União",
+    "state": "MG",
+    "lat": -21.1316402,
+    "lon": -46.6175338
+  },
+  {
+    "code": "3164001",
+    "name": "São Pedro dos Ferros",
+    "state": "MG",
+    "lat": -20.1706687,
+    "lon": -42.522901
+  },
+  {
+    "code": "3164100",
+    "name": "São Pedro do Suaçuí",
+    "state": "MG",
+    "lat": -18.365556,
+    "lon": -42.602778
+  },
+  {
+    "code": "3164209",
+    "name": "São Romão",
+    "state": "MG",
+    "lat": -16.3687716,
+    "lon": -45.0678597
+  },
+  {
+    "code": "3164308",
+    "name": "São Roque de Minas",
+    "state": "MG",
+    "lat": -20.245277,
+    "lon": -46.365833
+  },
+  {
+    "code": "3164407",
+    "name": "São Sebastião da Bela Vista",
+    "state": "MG",
+    "lat": -22.159167,
+    "lon": -45.754167
+  },
+  {
+    "code": "3164431",
+    "name": "São Sebastião da Vargem Alegre",
+    "state": "MG",
+    "lat": -21.0716128,
+    "lon": -42.6371378
+  },
+  {
+    "code": "3164472",
+    "name": "São Sebastião do Anta",
+    "state": "MG",
+    "lat": -19.4972592,
+    "lon": -41.983428
+  },
+  {
+    "code": "3164506",
+    "name": "São Sebastião do Maranhão",
+    "state": "MG",
+    "lat": -18.0859051,
+    "lon": -42.5694478
+  },
+  {
+    "code": "3164605",
+    "name": "São Sebastião do Oeste",
+    "state": "MG",
+    "lat": -20.274723,
+    "lon": -45.003611
+  },
+  {
+    "code": "3164704",
+    "name": "São Sebastião do Paraíso",
+    "state": "MG",
+    "lat": -20.9124331,
+    "lon": -46.9823296
+  },
+  {
+    "code": "3164803",
+    "name": "São Sebastião do Rio Preto",
+    "state": "MG",
+    "lat": -19.2923414,
+    "lon": -43.1758535
+  },
+  {
+    "code": "3164902",
+    "name": "São Sebastião do Rio Verde",
+    "state": "MG",
+    "lat": -22.2174751,
+    "lon": -44.9783312
+  },
+  {
+    "code": "3165008",
+    "name": "São Tiago",
+    "state": "MG",
+    "lat": -20.913056,
+    "lon": -44.509167
+  },
+  {
+    "code": "3165107",
+    "name": "São Tomás de Aquino",
+    "state": "MG",
+    "lat": -20.7844139,
+    "lon": -47.097717
+  },
+  {
+    "code": "3165206",
+    "name": "São Tomé das Letras",
+    "state": "MG",
+    "lat": -21.7218272,
+    "lon": -44.9849435
+  },
+  {
+    "code": "3165305",
+    "name": "São Vicente de Minas",
+    "state": "MG",
+    "lat": -21.703333,
+    "lon": -44.443889
+  },
+  {
+    "code": "3165404",
+    "name": "Sapucaí-Mirim",
+    "state": "MG",
+    "lat": -22.7480012,
+    "lon": -45.7427651
+  },
+  {
+    "code": "3165503",
+    "name": "Sardoá",
+    "state": "MG",
+    "lat": -18.781716,
+    "lon": -42.3652762
+  },
+  {
+    "code": "3165537",
+    "name": "Sarzedo",
+    "state": "MG",
+    "lat": -20.0353,
+    "lon": -44.1453
+  },
+  {
+    "code": "3165552",
+    "name": "Setubinha",
+    "state": "MG",
+    "lat": -17.6001378,
+    "lon": -42.1620269
+  },
+  {
+    "code": "3165560",
+    "name": "Sem-Peixe",
+    "state": "MG",
+    "lat": -20.1015407,
+    "lon": -42.8408301
+  },
+  {
+    "code": "3165578",
+    "name": "Senador Amaral",
+    "state": "MG",
+    "lat": -22.5875,
+    "lon": -46.176667
+  },
+  {
+    "code": "3165602",
+    "name": "Senador Cortes",
+    "state": "MG",
+    "lat": -21.8009734,
+    "lon": -42.9450985
+  },
+  {
+    "code": "3165701",
+    "name": "Senador Firmino",
+    "state": "MG",
+    "lat": -20.9169703,
+    "lon": -43.1001236
+  },
+  {
+    "code": "3165800",
+    "name": "Senador José Bento",
+    "state": "MG",
+    "lat": -22.1641985,
+    "lon": -46.1785855
+  },
+  {
+    "code": "3165909",
+    "name": "Senador Modestino Gonçalves",
+    "state": "MG",
+    "lat": -17.9496602,
+    "lon": -43.2257678
+  },
+  {
+    "code": "3166006",
+    "name": "Senhora de Oliveira",
+    "state": "MG",
+    "lat": -20.793889,
+    "lon": -43.344166
+  },
+  {
+    "code": "3166105",
+    "name": "Senhora do Porto",
+    "state": "MG",
+    "lat": -18.8905778,
+    "lon": -43.0844887
+  },
+  {
+    "code": "3166204",
+    "name": "Senhora dos Remédios",
+    "state": "MG",
+    "lat": -21.028056,
+    "lon": -43.582778
+  },
+  {
+    "code": "3166303",
+    "name": "Sericita",
+    "state": "MG",
+    "lat": -20.4735442,
+    "lon": -42.4817592
+  },
+  {
+    "code": "3166402",
+    "name": "Seritinga",
+    "state": "MG",
+    "lat": -21.9096949,
+    "lon": -44.5216061
+  },
+  {
+    "code": "3166501",
+    "name": "Serra Azul de Minas",
+    "state": "MG",
+    "lat": -18.3622042,
+    "lon": -43.1702095
+  },
+  {
+    "code": "3166600",
+    "name": "Serra da Saudade",
+    "state": "MG",
+    "lat": -19.4404288,
+    "lon": -45.7931291
+  },
+  {
+    "code": "3166709",
+    "name": "Serra dos Aimorés",
+    "state": "MG",
+    "lat": -17.7851517,
+    "lon": -40.2460739
+  },
+  {
+    "code": "3166808",
+    "name": "Serra do Salitre",
+    "state": "MG",
+    "lat": -19.1101839,
+    "lon": -46.6809858
+  },
+  {
+    "code": "3166907",
+    "name": "Serrania",
+    "state": "MG",
+    "lat": -21.547906,
+    "lon": -46.0404553
+  },
+  {
+    "code": "3166956",
+    "name": "Serranópolis de Minas",
+    "state": "MG",
+    "lat": -15.810935,
+    "lon": -42.871182
+  },
+  {
+    "code": "3167004",
+    "name": "Serranos",
+    "state": "MG",
+    "lat": -21.890277,
+    "lon": -44.509444
+  },
+  {
+    "code": "3167103",
+    "name": "Serro",
+    "state": "MG",
+    "lat": -18.604444,
+    "lon": -43.379445
+  },
+  {
+    "code": "3167202",
+    "name": "Sete Lagoas",
+    "state": "MG",
+    "lat": -19.466111,
+    "lon": -44.246944
+  },
+  {
+    "code": "3167301",
+    "name": "Silveirânia",
+    "state": "MG",
+    "lat": -21.158611,
+    "lon": -43.215556
+  },
+  {
+    "code": "3167400",
+    "name": "Silvianópolis",
+    "state": "MG",
+    "lat": -22.029723,
+    "lon": -45.835277
+  },
+  {
+    "code": "3167509",
+    "name": "Simão Pereira",
+    "state": "MG",
+    "lat": -21.963611,
+    "lon": -43.311667
+  },
+  {
+    "code": "3167608",
+    "name": "Simonésia",
+    "state": "MG",
+    "lat": -20.1233838,
+    "lon": -42.0024294
+  },
+  {
+    "code": "3167707",
+    "name": "Sobrália",
+    "state": "MG",
+    "lat": -19.2345745,
+    "lon": -42.0978033
+  },
+  {
+    "code": "3167806",
+    "name": "Soledade de Minas",
+    "state": "MG",
+    "lat": -22.0607267,
+    "lon": -45.044957
+  },
+  {
+    "code": "3167905",
+    "name": "Tabuleiro",
+    "state": "MG",
+    "lat": -21.3592212,
+    "lon": -43.2479134
+  },
+  {
+    "code": "3168002",
+    "name": "Taiobeiras",
+    "state": "MG",
+    "lat": -15.811859,
+    "lon": -42.2319723
+  },
+  {
+    "code": "3168051",
+    "name": "Taparuba",
+    "state": "MG",
+    "lat": -19.7620408,
+    "lon": -41.611423
+  },
+  {
+    "code": "3168101",
+    "name": "Tapira",
+    "state": "MG",
+    "lat": -19.9225,
+    "lon": -46.823056
+  },
+  {
+    "code": "3168200",
+    "name": "Tapiraí",
+    "state": "MG",
+    "lat": -19.8882788,
+    "lon": -46.0202739
+  },
+  {
+    "code": "3168309",
+    "name": "Taquaraçu de Minas",
+    "state": "MG",
+    "lat": -19.669445,
+    "lon": -43.687777
+  },
+  {
+    "code": "3168408",
+    "name": "Tarumirim",
+    "state": "MG",
+    "lat": -19.2818607,
+    "lon": -42.0070412
+  },
+  {
+    "code": "3168507",
+    "name": "Teixeiras",
+    "state": "MG",
+    "lat": -20.6517875,
+    "lon": -42.8563275
+  },
+  {
+    "code": "3168606",
+    "name": "Teófilo Otoni",
+    "state": "MG",
+    "lat": -17.8579267,
+    "lon": -41.5081533
+  },
+  {
+    "code": "3168705",
+    "name": "Timóteo",
+    "state": "MG",
+    "lat": -19.5771395,
+    "lon": -42.6436108
+  },
+  {
+    "code": "3168804",
+    "name": "Tiradentes",
+    "state": "MG",
+    "lat": -21.1104688,
+    "lon": -44.1742937
+  },
+  {
+    "code": "3168903",
+    "name": "Tiros",
+    "state": "MG",
+    "lat": -19.003889,
+    "lon": -45.963611
+  },
+  {
+    "code": "3169000",
+    "name": "Tocantins",
+    "state": "MG",
+    "lat": -21.1738872,
+    "lon": -43.0207206
+  },
+  {
+    "code": "3169059",
+    "name": "Tocos do Moji",
+    "state": "MG",
+    "lat": -22.3706152,
+    "lon": -46.0964763
+  },
+  {
+    "code": "3169109",
+    "name": "Toledo",
+    "state": "MG",
+    "lat": -22.7433969,
+    "lon": -46.3735044
+  },
+  {
+    "code": "3169208",
+    "name": "Tombos",
+    "state": "MG",
+    "lat": -20.9083753,
+    "lon": -42.0270243
+  },
+  {
+    "code": "3169307",
+    "name": "Três Corações",
+    "state": "MG",
+    "lat": -21.695625,
+    "lon": -45.2543675
+  },
+  {
+    "code": "3169356",
+    "name": "Três Marias",
+    "state": "MG",
+    "lat": -18.2051533,
+    "lon": -45.2484314
+  },
+  {
+    "code": "3169406",
+    "name": "Três Pontas",
+    "state": "MG",
+    "lat": -21.3686224,
+    "lon": -45.5122937
+  },
+  {
+    "code": "3169505",
+    "name": "Tumiritinga",
+    "state": "MG",
+    "lat": -18.976946,
+    "lon": -41.645851
+  },
+  {
+    "code": "3169604",
+    "name": "Tupaciguara",
+    "state": "MG",
+    "lat": -18.5932122,
+    "lon": -48.6999014
+  },
+  {
+    "code": "3169703",
+    "name": "Turmalina",
+    "state": "MG",
+    "lat": -17.286102,
+    "lon": -42.7312574
+  },
+  {
+    "code": "3169802",
+    "name": "Turvolândia",
+    "state": "MG",
+    "lat": -21.875556,
+    "lon": -45.786944
+  },
+  {
+    "code": "3169901",
+    "name": "Ubá",
+    "state": "MG",
+    "lat": -21.12,
+    "lon": -42.942777
+  },
+  {
+    "code": "3170008",
+    "name": "Ubaí",
+    "state": "MG",
+    "lat": -16.2925001,
+    "lon": -44.7823835
+  },
+  {
+    "code": "3170057",
+    "name": "Ubaporanga",
+    "state": "MG",
+    "lat": -19.6344637,
+    "lon": -42.1073048
+  },
+  {
+    "code": "3170107",
+    "name": "Uberaba",
+    "state": "MG",
+    "lat": -19.750833,
+    "lon": -47.936666
+  },
+  {
+    "code": "3170206",
+    "name": "Uberlândia",
+    "state": "MG",
+    "lat": -18.9188041,
+    "lon": -48.2767837
+  },
+  {
+    "code": "3170305",
+    "name": "Umburatiba",
+    "state": "MG",
+    "lat": -17.2538265,
+    "lon": -40.5711549
+  },
+  {
+    "code": "3170404",
+    "name": "Unaí",
+    "state": "MG",
+    "lat": -16.3628767,
+    "lon": -46.892413
+  },
+  {
+    "code": "3170438",
+    "name": "União de Minas",
+    "state": "MG",
+    "lat": -19.5296289,
+    "lon": -50.3317301
+  },
+  {
+    "code": "3170479",
+    "name": "Uruana de Minas",
+    "state": "MG",
+    "lat": -16.0628,
+    "lon": -46.2556
+  },
+  {
+    "code": "3170503",
+    "name": "Urucânia",
+    "state": "MG",
+    "lat": -20.350833,
+    "lon": -42.739444
+  },
+  {
+    "code": "3170529",
+    "name": "Urucuia",
+    "state": "MG",
+    "lat": -16.1266994,
+    "lon": -45.7393046
+  },
+  {
+    "code": "3170578",
+    "name": "Vargem Alegre",
+    "state": "MG",
+    "lat": -19.6070413,
+    "lon": -42.2997922
+  },
+  {
+    "code": "3170602",
+    "name": "Vargem Bonita",
+    "state": "MG",
+    "lat": -20.3282116,
+    "lon": -46.3668419
+  },
+  {
+    "code": "3170651",
+    "name": "Vargem Grande do Rio Pardo",
+    "state": "MG",
+    "lat": -15.4016347,
+    "lon": -42.3074552
+  },
+  {
+    "code": "3170701",
+    "name": "Varginha",
+    "state": "MG",
+    "lat": -21.5565914,
+    "lon": -45.4340674
+  },
+  {
+    "code": "3170750",
+    "name": "Varjão de Minas",
+    "state": "MG",
+    "lat": -18.3791473,
+    "lon": -46.030627
+  },
+  {
+    "code": "3170800",
+    "name": "Várzea da Palma",
+    "state": "MG",
+    "lat": -17.5983328,
+    "lon": -44.7317086
+  },
+  {
+    "code": "3170909",
+    "name": "Varzelândia",
+    "state": "MG",
+    "lat": -15.701667,
+    "lon": -44.027223
+  },
+  {
+    "code": "3171006",
+    "name": "Vazante",
+    "state": "MG",
+    "lat": -17.9896107,
+    "lon": -46.9003899
+  },
+  {
+    "code": "3171030",
+    "name": "Verdelândia",
+    "state": "MG",
+    "lat": -15.5926259,
+    "lon": -43.6084698
+  },
+  {
+    "code": "3171071",
+    "name": "Veredinha",
+    "state": "MG",
+    "lat": -17.3945837,
+    "lon": -42.7383934
+  },
+  {
+    "code": "3171105",
+    "name": "Veríssimo",
+    "state": "MG",
+    "lat": -19.6680818,
+    "lon": -48.308771
+  },
+  {
+    "code": "3171154",
+    "name": "Vermelho Novo",
+    "state": "MG",
+    "lat": -20.0356065,
+    "lon": -42.2671476
+  },
+  {
+    "code": "3171204",
+    "name": "Vespasiano",
+    "state": "MG",
+    "lat": -19.6940958,
+    "lon": -43.9186521
+  },
+  {
+    "code": "3171303",
+    "name": "Viçosa",
+    "state": "MG",
+    "lat": -20.7538586,
+    "lon": -42.8815888
+  },
+  {
+    "code": "3171402",
+    "name": "Vieiras",
+    "state": "MG",
+    "lat": -20.8651165,
+    "lon": -42.2448518
+  },
+  {
+    "code": "3171501",
+    "name": "Mathias Lobato",
+    "state": "MG",
+    "lat": -18.5760459,
+    "lon": -41.9155448
+  },
+  {
+    "code": "3171600",
+    "name": "Virgem da Lapa",
+    "state": "MG",
+    "lat": -16.8071554,
+    "lon": -42.3376458
+  },
+  {
+    "code": "3171709",
+    "name": "Virgínia",
+    "state": "MG",
+    "lat": -22.333333,
+    "lon": -45.091666
+  },
+  {
+    "code": "3171808",
+    "name": "Virginópolis",
+    "state": "MG",
+    "lat": -18.8226124,
+    "lon": -42.7053967
+  },
+  {
+    "code": "3171907",
+    "name": "Virgolândia",
+    "state": "MG",
+    "lat": -18.4760135,
+    "lon": -42.3069186
+  },
+  {
+    "code": "3172004",
+    "name": "Visconde do Rio Branco",
+    "state": "MG",
+    "lat": -21.01,
+    "lon": -42.840833
+  },
+  {
+    "code": "3172103",
+    "name": "Volta Grande",
+    "state": "MG",
+    "lat": -21.770834,
+    "lon": -42.539166
+  },
+  {
+    "code": "3172202",
+    "name": "Wenceslau Braz",
+    "state": "MG",
+    "lat": -22.5342367,
+    "lon": -45.3614735
+  }
+]
