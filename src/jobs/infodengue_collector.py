@@ -1,6 +1,10 @@
 """
 Job para coleta automática de dados de arboviroses usando InfoDengue API.
+<<<<<<< HEAD
 Agora inclui a coleta de todos os municípios de Minas Gerais.
+=======
+ inclui a coleta de todos os municípios de Minas Gerais e principais capitais.
+>>>>>>> 992a0c672968cf3a4ac52886b975bd1eae4a674a
 """
 import os
 import sys
